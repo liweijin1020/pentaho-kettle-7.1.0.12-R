@@ -1,0 +1,22 @@
+
+Bsquid:S1659+"&Declare "getArray" on a separate line.(Û›Á¤üÿÿÿÿ
+Bsquid:S1659-"&Declare "getIndex" on a separate line.(åáöûÿÿÿÿ
+Fsquid:S1659."*Declare "outputBuffer" on a separate line.(Ş½·üûÿÿÿÿ
+=squid:S11702"!Make this final field static too.(üğúÿÿÿÿ
+qsquid:S001162"TRename this field "BATCHSIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üğúÿÿÿÿ
+psquid:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØÔû
+psquid:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(ı­¢Ñ
+U
+squid:S899G":Do something with the "boolean" value returned by "offer".(¢îê¨ùÿÿÿÿ
+]squid:S2142`"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+]squid:S2142m"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+U
+squid:S899k":Do something with the "boolean" value returned by "offer".(ê”Šûÿÿÿÿ
+^squid:S2142‘"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+>squid:S1168’"&Return an empty array instead of null.(¥¹ï
+>squid:S1168•"&Return an empty array instead of null.(¥¹ï
+V
+squid:S899":Do something with the "boolean" value returned by "offer".(ó½øıûÿÿÿÿ
+V
+squid:S899³":Do something with the "boolean" value returned by "offer".(¹ùË£ûÿÿÿÿ
+bsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(„ê‹ğ

@@ -1,0 +1,11 @@
+
+osquid:S00117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍßòÒıÿÿÿÿ
+osquid:S00117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍßòÒıÿÿÿÿ
+osquid:S1210C"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(´Õ;
+qsquid:S1201T"UEither override Object.equals(Object), or rename the method to prevent any confusion.(ï™¦Ïúÿÿÿÿ
+msquid:S3038]"Q"putRow" is defined in the "RowSet" interface and can be removed from this class.(òº‘ïûÿÿÿÿ
+qsquid:S3038f"U"putRowWait" is defined in the "RowSet" interface and can be removed from this class.(òº‘ïûÿÿÿÿ
+msquid:S3038p"Q"getRow" is defined in the "RowSet" interface and can be removed from this class.(òº‘ïûÿÿÿÿ
+vsquid:S3038x"Z"getRowImmediate" is defined in the "RowSet" interface and can be removed from this class.(òº‘ïûÿÿÿÿ
+rsquid:S3038€"U"getRowWait" is defined in the "RowSet" interface and can be removed from this class.(òº‘ïûÿÿÿÿ
+lsquid:S3038Î"O"size" is defined in the "RowSet" interface and can be removed from this class.(òº‘ïûÿÿÿÿ
