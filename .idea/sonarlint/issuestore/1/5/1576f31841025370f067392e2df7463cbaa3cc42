@@ -1,0 +1,5 @@
+
+qsquid:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ³í«
+osquid:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¤…ı†şÿÿÿÿ
+Qsquid:S2864â"4Iterate over the "entrySet" instead of the "keySet".(·Ñâúÿÿÿÿ
+Qsquid:S2864Ö"4Iterate over the "entrySet" instead of the "keySet".(·Ñâúÿÿÿÿ

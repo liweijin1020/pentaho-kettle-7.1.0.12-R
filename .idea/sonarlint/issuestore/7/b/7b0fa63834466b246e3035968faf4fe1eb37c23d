@@ -1,0 +1,4 @@
+
+Xsquid:S1126d"AReplace this if-then-else statement by a single return statement.(ÂõĞ„
+]squid:S1854@"ARemove this useless assignment to local variable "outputRowData".(àÈÏûÿÿÿÿ
+Usquid:S35163"9Refactor this method to not always return the same value.(¤ƒŞƒúÿÿÿÿ

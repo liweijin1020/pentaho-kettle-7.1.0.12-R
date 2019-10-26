@@ -159,7 +159,7 @@ public class TableInput extends BaseStep implements StepInterface {
           }
         }
         if ( data.nextrow != null ) {
-          incrementLinesInput();
+          incrementLinesInput();// 增加从输入源（数据库，文件，套接字等）读取的行数。
         }
       }
     }

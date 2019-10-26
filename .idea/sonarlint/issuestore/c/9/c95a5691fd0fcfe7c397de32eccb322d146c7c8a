@@ -1,0 +1,19 @@
+
+jsquid:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(çûãá
+_squid:S00112‘"FDefine and throw a dedicated exception instead of using a generic one.(Šå¡À
+^squid:S00112q"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+dsquid:S11829"HUse super.clone() to create and seed the cloned instance to be returned.(„Ã‰íøÿÿÿÿ
+ssquid:S1192Ò"[Define a constant instead of duplicating this literal "Wrong value conversion to " 4 times.(Šå¡À
+Q"squid:SwitchLastCaseIsDefaultCheck¥""Add a default case to this switch.(ÓíºÒ
+Q"squid:SwitchLastCaseIsDefaultCheck¾""Add a default case to this switch.(ÓíºÒ
+osquid:S29759"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(„Ã‰íøÿÿÿÿ
+^squid:S00112{"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+^squid:S00112?"FDefine and throw a dedicated exception instead of using a generic one.(¤Ê‡ß
+_squid:S00112ç"FDefine and throw a dedicated exception instead of using a generic one.(Šå¡À
+_squid:S00112ü"FDefine and throw a dedicated exception instead of using a generic one.(Šå¡À
+6squid:S2097w"Add a type test to this method.(ÜÑã
+Fsquid:S1172")Remove this unused method parameter "bs".(ĞœŠñüÿÿÿÿ
+_squid:CallToDeprecatedMethod‰"1Remove this use of "ValueMeta"; it is deprecated.(÷ü‘ıüÿÿÿÿ
+_squid:S00112Ò"FDefine and throw a dedicated exception instead of using a generic one.(Šå¡À
+Xsquid:S2259y"AA "NullPointerException" could be thrown; "obj" is nullable here.(Áƒ¹Ï
+jsquid:S1192”"RDefine a constant instead of duplicating this literal "Unknown column '" 10 times.(Üÿ±Û

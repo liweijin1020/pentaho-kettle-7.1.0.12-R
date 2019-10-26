@@ -1,0 +1,21 @@
+
+… squid:ForLoopCounterChangedCheckŠ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+_squid:S1192¤"GDefine a constant instead of duplicating this literal "lookup" 4 times.(ž¾÷Ö
+isquid:S1192¨"QDefine a constant instead of duplicating this literal "execute_each_row" 4 times.(ý‰ÛÃ
+tsquid:S1192ª"WDefine a constant instead of duplicating this literal "lazy_conversion_active" 4 times.(Òøûàýÿÿÿÿ
+]squid:S1192¢"FDefine a constant instead of duplicating this literal "limit" 5 times.(ÆäÄ
+nsquid:S1192©"QDefine a constant instead of duplicating this literal "variables_active" 4 times.(ŠÄÜßûÿÿÿÿ
+{squid:S1488š"^Immediately return this expression instead of assigning it to the temporary variable "retval".(ÿóÔªþÿÿÿÿ
+Tsquid:S2589Ø"7Remove this expression which always evaluates to "true"(§ÀÏŸûÿÿÿÿ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×®¡¥ùÿÿÿÿ
+jsquid:S00117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÿíè
+jsquid:S00117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÿíè
+esquid:S3008H"NRename this field "PKG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¦ÚÑ
+ksquid:S2975™"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ž²ÈÞ
+isquid:S3776»"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Š©‡I
+Isquid:S1135¾"2Complete the task associated to this TODO comment.(¥ÿ‡
+jsquid:S3981æ"RThe length of "info" is always ">=0", so update this test to either "==0" or ">0".(¡¡åë
+jsquid:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(ÙÝ¢ˆ
+U
+squid:S106Ð"9Replace this use of System.out or System.err by a logger.(’¬ùÃüÿÿÿÿ
+Jsquid:S1135Õ"2Complete the task associated to this TODO comment.(°Ï¨„

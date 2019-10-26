@@ -1,0 +1,159 @@
+
+fsquid:S00112ù
+"FDefine and throw a dedicated exception instead of using a generic one.(ŸÒÂì8çä¬Çß-
+nsquid:S2259Ç "JA "NullPointerException" could be thrown; "masterServer" is nullable here.(è¼Àòúÿÿÿÿ8çä¬Çß-
+W
+squid:S106î"9Replace this use of System.out or System.err by a logger.(¶ŸÜ‡8çä¬Çß-
+osquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(ó…—¤ùÿÿÿÿ8çä¬Çß-
+Gsquid:S1604„"(Make this anonymous inner class a lambda(ÉãÃ®8çä¬Çß-
+qsquid:S3776”"RRefactor this method to reduce its Cognitive Complexity from 70 to the 15 allowed.(¯…ŒŒ8çä¬Çß-
+Esquid:S1168Ü"&Return an empty array instead of null.(¥¹ï8çä¬Çß-
+Ysquid:S1141õ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8çä¬Çß-
+jsquid:S2184"FCast one of the operands of this multiplication operation to a "long".(ü×Ò”øÿÿÿÿ8çä¬Çß-
+ksquid:S00112å"FDefine and throw a dedicated exception instead of using a generic one.(üàª¿ûÿÿÿÿ8çä¬Çß-
+bsquid:CallToDeprecatedMethod¶	"4Remove this use of "getArguments"; it is deprecated.(Ö¦§×øÿÿÿÿ
+psquid:S3776§"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ËÁÕ
+8çä¬Çß-
+Lsquid:S1604–,"(Make this anonymous inner class a lambda(Ëˆôıÿÿÿÿ8çä¬Çß-
+‚"squid:ClassVariableVisibilityCheckş"TMake class_nr a static final constant or non-public and provide accessors if needed.(ıòşz
+Tsquid:S1133Ù("5Do not forget to remove this deprecated code someday.(š³Õ†8çä¬Çß-
+jsquid:S2184’"FCast one of the operands of this multiplication operation to a "long".(·–©ûÿÿÿÿ8çä¬Çß-
+gsquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+Lsquid:S1133¸"5Do not forget to remove this deprecated code someday.(ÄÜ¨G
+Tsquid:S1172˜ "0Remove this unused method parameter "parentJob".(ß­¶ıÿÿÿÿ8çä¬Çß-
+]squid:S1155â">Use isEmpty() to check whether the collection is empty or not.(¦Íší8çä¬Çß-
+ksquid:S2259ì!"GA "NullPointerException" could be thrown; "transMeta" is nullable here.(öª”üÿÿÿÿ8çä¬Çß-
+qsquid:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(í¬…†8çä¬Çß-
+Vsquid:S1135ú!"2Complete the task associated to this TODO comment.(¾°Ø’øÿÿÿÿ8çä¬Çß-
+ksquid:S00112»
+"FDefine and throw a dedicated exception instead of using a generic one.(ùªüˆøÿÿÿÿ8›´ÎÌŞ-
+ksquid:S1192©"GDefine a constant instead of duplicating this literal "UTF-8" 10 times.(†ÃÛ®ıÿÿÿÿ8çä¬Çß-
+U
+squid:S106Ò"9Replace this use of System.out or System.err by a logger.(§éìãûÿÿÿÿ
+lsquid:S1192Î"HDefine a constant instead of duplicating this literal "/?xml=Y" 3 times.(ø…¨üÿÿÿÿ8çä¬Çß-
+nsquid:S1149¥"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(µ‹¬ô
+xsquid:S2293«"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦çïÙ8çä¬Çß-
+nsquid:S2259Ò "JA "NullPointerException" could be thrown; "masterServer" is nullable here.(©Ïˆúÿÿÿÿ8çä¬Çß-
+ksquid:S1192©"GDefine a constant instead of duplicating this literal "&xml=Y" 4 times.(†ÃÛ®ıÿÿÿÿ8›´ÎÌŞ-
+fsquid:S3008®"NRename this field "PKG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÙÙœ
+qsquid:S3776û"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(Àåºª8çä¬Çß-
+vsquid:S3776à"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(‰ÎÉËıÿÿÿÿ8çä¬Çß-
+}squid:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(«Ğ®Íúÿÿÿÿ8çä¬Çß-
+vsquid:S3776ƒ+"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(â³ô°øÿÿÿÿ8çä¬Çß-
+jsquid:S2184’"FCast one of the operands of this multiplication operation to a "long".(·–©ûÿÿÿÿ8çä¬Çß-
+xsquid:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦åçñ8çä¬Çß-
+hsquid:HiddenFieldCheckì">Rename "variables" which hides the field declared at line 245.(¼ÇÑœ8çä¬Çß-
+esquid:S2184è"FCast one of the operands of this multiplication operation to a "long".(™Åìâ8çä¬Çß-
+Xsquid:MissingDeprecatedCheckÙ("(Add the missing @deprecated Javadoc tag.(š³Õ†8çä¬Çß-
+Ysquid:S1141—"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8çä¬Çß-
+hsquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(æ»™Şúÿÿÿÿ
+jsquid:CommentedOutCodeLine¾"<This block of commented-out lines of code should be removed.(ïÄÒœ8çä¬Çß-
+=squid:S1659æ"%Declare "depDate" on a separate line.(ÙË†Ù
+}squid:S2293ö "YReplace the type specification in this constructor call with the diamond operator ("<>").(ûÖ·Åûÿÿÿÿ8çä¬Çß-
+_squid:S2259Î"@A "NullPointerException" could be thrown; "db" is nullable here.(‚Ï¢ô8çä¬Çß-
+osquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8çä¬Çß-
+xsquid:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š³©8çä¬Çß-
+€squid:S1192Ä"aDefine a constant instead of duplicating this literal "Unable to contact slave server '" 5 times.(¦È±8çä¬Çß-
+qsquid:S2293Ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼Şñ£
+W
+squid:S106ß"9Replace this use of System.out or System.err by a logger.(·¦Æ»8çä¬Çß-
+Vsquid:S2589£%"7Remove this expression which always evaluates to "true"(¤ğ 8çä¬Çß-
+ksquid:S00116ş"SRename this field "class_nr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıòşz
+esquid:HiddenFieldChecká";Rename "status" which hides the field declared at line 318.(Ïü›Ü8çä¬Çß-
+jsquid:S2184Ã%"FCast one of the operands of this multiplication operation to a "long".(ûã½òıÿÿÿÿ8çä¬Çß-
+hsquid:S2583‘"DChange this condition so that it does not always evaluate to "false"(’Œ‘ışÿÿÿÿ8çä¬Çß-
+=squid:S1659æ"%Declare "logDate" on a separate line.(ÙË†Ù
+rsquid:S3776Œ"SRefactor this method to reduce its Cognitive Complexity from 121 to the 15 allowed.(æÒøŞ8çä¬Çß-
+vsquid:S3776û"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ñß–ñÿÿÿÿÿ8çä¬Çß-
+=squid:S1659æ"%Declare "endDate" on a separate line.(ÙË†Ù
+@squid:S1659é"(Declare "jobEndDate" on a separate line.(Õæ³Ù
+Isquid:S1181…"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8çä¬Çß-
+}squid:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç§±Òúÿÿÿÿ8çä¬Çß-
+bsquid:CallToDeprecatedMethod¯	"9Remove this use of "getPreviousResult"; it is deprecated.(ÅÏÔÕ
+Esquid:S1168Ñ"&Return an empty array instead of null.(¥¹ï8çä¬Çß-
+_squid:S2259£"AA "NullPointerException" could be thrown; "ldb" is nullable here.(¿¶Œ8çä¬Çß-
+gsquid:S2259Û
+"CA "NullPointerException" could be thrown; "trans" is nullable here.(Ë·§şÿÿÿÿ8›´ÎÌŞ-
+U
+squid:S106Í"9Replace this use of System.out or System.err by a logger.(§éìãûÿÿÿÿ
+qsquid:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(º®¼œ
+Msquid:S5413°")Verify that "remove()" is used correctly.(¼ş¶¯ûÿÿÿÿ8çä¬Çß-
+“squid:S1319€*"oThe return type of this method should be an interface such as "Map" rather than the implementation "Hashtable".(äæ¬•øÿÿÿÿ8çä¬Çß-
+\squid:S1155¥">Use isEmpty() to check whether the collection is empty or not.(á÷Ût8çä¬Çß-
+Tsquid:S1133Š"5Do not forget to remove this deprecated code someday.(ÚÔ°—8çä¬Çß-
+isquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(í÷£8çä¬Çß-
+‘squid:S1319„*"rThe type of the "counters" object should be an interface such as "Map" rather than the implementation "Hashtable".(ëúÙ©8çä¬Çß-
+qsquid:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç¡Ñ«
+hsquid:CallToDeprecatedMethod’!"8Remove this use of "AddExportServlet"; it is deprecated.(”œª8çä¬Çß-
+psquid:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÊÚ¹x8çä¬Çß-
+vsquid:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 68 to the 15 allowed.(æè°ãøÿÿÿÿ8çä¬Çß-
+Gsquid:S1066µ"/Merge this if statement with the enclosing one.(×Õ´±
+osquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(ó…—¤ùÿÿÿÿ8çä¬Çß-
+gsquid:CallToDeprecatedMethod°	"9Remove this use of "getPreviousResult"; it is deprecated.(Æíûƒøÿÿÿÿ
+Ysquid:S1854Ö%":Remove this useless assignment to local variable "errors".(Ÿòªì8çä¬Çß-
+•squid:S1192©"qDefine a constant instead of duplicating this literal "Trans.Exception.UnableToPerformLoggingAtTransEnd" 3 times.(–Ã¾•ÿÿÿÿÿ8çä¬Çß-
+Isquid:S1181¿,"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8çä¬Çß-
+vsquid:S3776š%"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¯ìÄŠüÿÿÿÿ8çä¬Çß-
+[squid:CallToDeprecatedMethod¼"2Remove this use of "threadName"; it is deprecated.(âÇÆğ
+]squid:S1155 ">Use isEmpty() to check whether the collection is empty or not.(…ŞôÓ8çä¬Çß-
+Jsquid:S1168¨"+Return an empty collection instead of null.(¥¹ï8çä¬Çß-
+xsquid:S2293’
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(öØŠû8›´ÎÌŞ-
+Esquid:S1168¿"&Return an empty array instead of null.(¥¹ï8çä¬Çß-
+usquid:S1149„*"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ëúÙ©8çä¬Çß-
+Ysquid:S1133–"5Do not forget to remove this deprecated code someday.(øœÜÒşÿÿÿÿ8çä¬Çß-
+gsquid:S2095‰!"HUse try-with-resources or close this "FileObject" in a "finally" clause.(â‹‡œ8çä¬Çß-
+Lsquid:S1604 ,"(Make this anonymous inner class a lambda(½™¦ùÿÿÿÿ8çä¬Çß-
+zsquid:S1149€*"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(äæ¬•øÿÿÿÿ8çä¬Çß-
+xsquid:S2293Ä("YReplace the type specification in this constructor call with the diamond operator ("<>").(¿±Çø8çä¬Çß-
+qsquid:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä¤¸®
+Gsquid:S1066®"/Merge this if statement with the enclosing one.(×Õ´±
+Ysquid:S1854Ó%":Remove this useless assignment to local variable "errors".(Ÿòªì8çä¬Çß-
+Msquid:S1066"/Merge this if statement with the enclosing one.(´˜ÕW8çä¬Çß-
+\squid:S1155º">Use isEmpty() to check whether the collection is empty or not.(á÷Ût8çä¬Çß-
+jsquid:CommentedOutCodeLineÉ,"<This block of commented-out lines of code should be removed.(£ƒ‚Ê8çä¬Çß-
+Ssquid:S1066—"/Merge this if statement with the enclosing one.(½ü˜Öüÿÿÿÿ8çä¬Çß-
+Psquid:MissingDeprecatedCheck¸"(Add the missing @deprecated Javadoc tag.(ÄÜ¨G
+esquid:S2142ä"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8çä¬Çß-
+P
+squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(”£å
+Asquid:S1659æ")Declare "currentDate" on a separate line.(ÙË†Ù
+†squid:S1192İ"bDefine a constant instead of duplicating this literal "Unable to contact master server '" 5 times.(©Ïˆúÿÿÿÿ8çä¬Çß-
+\squid:S1155Ä">Use isEmpty() to check whether the collection is empty or not.(á÷Ût8çä¬Çß-
+squid:S3252€#"bUse static access with "org.pentaho.di.core.row.value.ValueMetaBase" for "convertStringToBoolean".(çÆÉÿ8çä¬Çß-
+psquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 175 to the 15 allowed.(âéÕÅûÿÿÿÿ
+vsquid:S2293Ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(Øˆò‡ûÿÿÿÿ
+Nsquid:S1066ù#"/Merge this if statement with the enclosing one.(·¦ò•8çä¬Çß-
+qsquid:S2293Ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(»Ê²·
+xsquid:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿê¾¯8çä¬Çß-
+Ysquid:S1141“"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8çä¬Çß-
+jsquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(¦™„ê8çä¬Çß-
+osquid:S3776Á	"RRefactor this method to reduce its Cognitive Complexity from 84 to the 15 allowed.(½•¿ùşÿÿÿÿ
+Lsquid:S1604á"(Make this anonymous inner class a lambda(äë¬±üÿÿÿÿ8çä¬Çß-
+vsquid:S00117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á†¢×ùÿÿÿÿ8çä¬Çß-
+_squid:S2259¯"@A "NullPointerException" could be thrown; "db" is nullable here.(‚Ï¢ô8çä¬Çß-
+esquid:S2184è"FCast one of the operands of this multiplication operation to a "long".(™Åìâ8çä¬Çß-
+Ysquid:S1141Ó"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8çä¬Çß-
+W
+squid:S106å"9Replace this use of System.out or System.err by a logger.(·¦Æ»8çä¬Çß-
+Vsquid:S2589£%"7Remove this expression which always evaluates to "true"(¤ğ 8çä¬Çß-
+qsquid:S2293Æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(†¯Ëã
+`squid:CallToDeprecatedMethodì"2Remove this use of "threadName"; it is deprecated.(íŒÅÑıÿÿÿÿ
+`squid:CallToDeprecatedMethodî"2Remove this use of "threadName"; it is deprecated.(å«çÿûÿÿÿÿ
+Lsquid:S1604•"(Make this anonymous inner class a lambda(÷óÈƒşÿÿÿÿ8çä¬Çß-
+[squid:S1155´">Use isEmpty() to check whether the collection is empty or not.(ïã¬ûÿÿÿÿ
+vsquid:S2293Ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù°âÚıÿÿÿÿ
+bsquid:CallToDeprecatedMethodµ	"4Remove this use of "getArguments"; it is deprecated.(÷¬„øÿÿÿÿ
+}squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ã›èûÿÿÿÿ8çä¬Çß-
+Qsquid:S1135›+"2Complete the task associated to this TODO comment.(ûìí™8çä¬Çß-
+gsquid:S00119Ñ"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ÎÁÍÔÿÿÿÿÿ
+}squid:S2293°
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æöôÿÿÿÿÿ8›´ÎÌŞ-
+gsquid:S1192¨"HDefine a constant instead of duplicating this literal "/?name=" 6 times.(×òìğ8çä¬Çß-
+Ysquid:S1141 "5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8çä¬Çß-
+squid:S3252¸"bUse static access with "org.pentaho.di.core.row.value.ValueMetaBase" for "convertStringToBoolean".(úçÚìıÿÿÿÿ
+|
+squid:S135³+"YReduce the total number of break and continue statements in this loop to use at most one.(›ÉÌ­ıÿÿÿÿ8çä¬Çß-
+msquid:HiddenFieldCheck–,">Rename "heartbeat" which hides the field declared at line 429.(Ëˆôıÿÿÿÿ8çä¬Çß-
+jsquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(± ş8çä¬Çß-

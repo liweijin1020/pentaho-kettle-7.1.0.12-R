@@ -1,0 +1,196 @@
+
+csquid:S1301ü%"KReplace this "switch" statement by "if" statements to increase readability.(ÜŸ•
+6squid:S2129Û"Remove this "Long" constructor(ÍŞÄé
+Zsquid:CallToDeprecatedMethod›",Remove this use of "Long"; it is deprecated.(÷˜››ıÿÿÿÿ
+gsquid:CallToDeprecatedMethod– "9Remove this use of "getConversionMask"; it is deprecated.(ïî¢ÿùÿÿÿÿ
+\squid:CallToDeprecatedMethodİ".Remove this use of "Double"; it is deprecated.(À¡îùûÿÿÿÿ
+Usquid:CallToDeprecatedMethod©",Remove this use of "Long"; it is deprecated.(¼çñ™
+;squid:S2129´"Remove this "Long" constructor(õÛÖşÿÿÿÿ
+Wsquid:CallToDeprecatedMethodß".Remove this use of "Double"; it is deprecated.(Ç×’¡
+hsquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(ÀêÕúÿÿÿÿ
+ysquid:S1488Ô"\Immediately return this expression instead of assigning it to the temporary variable "bool".(Õ«…âúÿÿÿÿ
+Usquid:CallToDeprecatedMethodÛ",Remove this use of "Long"; it is deprecated.(ÍŞÄé
+Vsquid:MissingDeprecatedCheckç	"(Add the missing @deprecated Javadoc tag.(¥‘à¢şÿÿÿÿ
+hsquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(šÖÄ‘üÿÿÿÿ
+bsquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(ËâK
+Esquid:S2447Ñ	"-Null is returned but a "Boolean" is expected.(¥¹ï
+>squid:S1168±"&Return an empty array instead of null.(¥¹ï
+®squid:S1192í"Define a constant instead of duplicating this literal " : couldn't convert String to number : non-numeric character found at position " 3 times.(÷¥µøÿÿÿÿ
+hsquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(µ··Îúÿÿÿÿ
+csquid:CommentedOutCodeLine™%"<This block of commented-out lines of code should be removed.(·†ÜÊ
+gsquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+h
+squid:S128$"LEnd this switch case with an unconditional break, return or throw statement.(ÖºŸüÿÿÿÿ
+Osquid:S2589±"7Remove this expression which always evaluates to "true"(ŒÁÓ
+ksquid:S2975¦"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ĞïåÊ
+osquid:S3776§"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(£ÃŠıÿÿÿÿ
+Bsquid:S5411…"*Use the primitive boolean expression here.(¥²ß«
+_squid:S00112Î"FDefine and throw a dedicated exception instead of using a generic one.(àØ
+;squid:S2129¶"Remove this "Long" constructor(ù€€ßÿÿÿÿÿ
+;squid:S2129›"Remove this "Long" constructor(÷˜››ıÿÿÿÿ
+osquid:S3776…"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¤ìåœøÿÿÿÿ
+Wsquid:CallToDeprecatedMethodİ".Remove this use of "isNull"; it is deprecated.(¦ØÔ
+>squid:S1168ì
+"&Return an empty array instead of null.(¥¹ï
+gsquid:CallToDeprecatedMethod£ "9Remove this use of "getConversionMask"; it is deprecated.(ò»²Îúÿÿÿÿ
+\squid:CallToDeprecatedMethodÂ%".Remove this use of "Double"; it is deprecated.(‰…ıåùÿÿÿÿ
+bsquid:CallToDeprecatedMethod¤ "9Remove this use of "getConversionMask"; it is deprecated.(—¥öş
+Rsquid:S1133ñ"5Do not forget to remove this deprecated code someday.(æ×Öùÿÿÿÿ
+asquid:HiddenFieldCheckŠ#"9Rename "type" which hides the field declared at line 104.(’şùüÿÿÿÿ
+_squid:S00112¤"FDefine and throw a dedicated exception instead of using a generic one.(àØ
+csquid:HiddenFieldCheck¯";Rename "length" which hides the field declared at line 102.(İÈÿÅıÿÿÿÿ
+esquid:S1192î"MDefine a constant instead of duplicating this literal " for value [" 3 times.(®€¨
+osquid:S00117ª'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äŒëÿÿÿÿÿ
+Lsquid:S1066€$"/Merge this if statement with the enclosing one.(•ÇıËûÿÿÿÿ
+Msquid:S1133è"5Do not forget to remove this deprecated code someday.( ¾‹¿
+ƒsquid:S1192ğ"fDefine a constant instead of duplicating this literal "] does not correspond to value meta [" 7 times.(©ÿ¸¥üÿÿÿÿ
+\squid:CallToDeprecatedMethodŞ".Remove this use of "Double"; it is deprecated.(Ì¥ ˆÿÿÿÿÿ
+=squid:S2129Â%" Remove this "Double" constructor(‰…ıåùÿÿÿÿ
+á%squid:RedundantThrowsDeclarationCheck£"©Remove the declaration of thrown exception 'org.pentaho.di.core.exception.KettleEOFException' which is a subclass of 'org.pentaho.di.core.exception.KettleFileException'.(ü·íÛıÿÿÿÿ
+_squid:S00112†"FDefine and throw a dedicated exception instead of using a generic one.(Í†šÑ
+csquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(ıæ‡×
+Usquid:CallToDeprecatedMethod",Remove this use of "Long"; it is deprecated.(à„„È
+hsquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(î¡Äúşÿÿÿÿ
+Gsquid:S1066÷"/Merge this if statement with the enclosing one.(Ä˜Öı
+vsquid:S1488ò"YImmediately return this expression instead of assigning it to the temporary variable "i".(üñ—«ùÿÿÿÿ
+hsquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(£õ”Øøÿÿÿÿ
+bsquid:CallToDeprecatedMethod¤ "9Remove this use of "getConversionMask"; it is deprecated.(—¥öş
+;squid:S2129 "Remove this "Long" constructor(¿—µ›üÿÿÿÿ
+;squid:S2129Ï"Remove this "Long" constructor(£Üòƒşÿÿÿÿ
+Esquid:S2447 	"-Null is returned but a "Boolean" is expected.(¥¹ï
+hsquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(¤Üá›úÿÿÿÿ
+esquid:S3008V"NRename this field "PKG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ü«Î
+isquid:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ì»
+;squid:S2129è"Remove this "Long" constructor(ğ¼¢»ıÿÿÿÿ
+csquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(µóë
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŒÇº€ûÿÿÿÿ
+Rsquid:S1141ó$"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+csquid:S1192º"FDefine a constant instead of duplicating this literal "value" 9 times.(Ö˜å²ùÿÿÿÿ
+csquid:CommentedOutCodeLineÁ"<This block of commented-out lines of code should be removed.(¹Ù…
+hsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(€‡Ö›øÿÿÿÿ
+hsquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(¬ë”ÿÿÿÿÿ
+=squid:S2129ó" Remove this "Double" constructor(úÖÇ¸ùÿÿÿÿ
+Ü%squid:RedundantThrowsDeclarationCheckŠ"©Remove the declaration of thrown exception 'org.pentaho.di.core.exception.KettleEOFException' which is a subclass of 'org.pentaho.di.core.exception.KettleFileException'.(üÏ¢
+Qsquid:S4719¨"9Replace charset name argument with StandardCharsets.UTF_8(ú†¦˜
+^squid:HiddenFieldChecké";Rename "length" which hides the field declared at line 102.(õˆí
+Ã%squid:RedundantThrowsDeclarationCheck¼"‹Remove the declaration of thrown exception 'org.pentaho.di.core.exception.KettleValueException', as it cannot be thrown from method's body.(Ü¹Şƒÿÿÿÿÿ
+Lsquid:S1066•"/Merge this if statement with the enclosing one.(ƒ½çƒüÿÿÿÿ
+csquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(¯âíê
+\squid:CallToDeprecatedMethodó".Remove this use of "Double"; it is deprecated.(úÖÇ¸ùÿÿÿÿ
+esquid:S1192à"MDefine a constant instead of duplicating this literal "storage-meta" 3 times.(Ö«‘
+\squid:CallToDeprecatedMethodÉ".Remove this use of "Double"; it is deprecated.(Ê¸×…ûÿÿÿÿ
+Jsquid:S1199ı%"-Extract this nested code block into a method.(„ª´àıÿÿÿÿ
+>squid:S1168ğ"&Return an empty array instead of null.(¥¹ï
+Rsquid:S1141™"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+jsquid:S00117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã©Öá
+ssquid:HiddenFieldCheckˆ%"KRename "originalColumnTypeName" which hides the field declared at line 151.(Ã·üÿÿÿÿ
+Esquid:S2447Á	"-Null is returned but a "Boolean" is expected.(¥¹ï
+qsquid:CallToDeprecatedMethodà	"CRemove this use of "convertBinaryStringToString"; it is deprecated.(µƒ”Ùùÿÿÿÿ
+Zsquid:CallToDeprecatedMethod²",Remove this use of "Long"; it is deprecated.(÷Ç´Šıÿÿÿÿ
+Zsquid:CallToDeprecatedMethod´",Remove this use of "Long"; it is deprecated.(õÛÖşÿÿÿÿ
+Zsquid:CallToDeprecatedMethod¶",Remove this use of "Long"; it is deprecated.(ù€€ßÿÿÿÿÿ
+fsquid:HiddenFieldCheck %"CRename "originalSigned" which hides the field declared at line 156.(ƒæğŞ
+_squid:S00112µ"FDefine and throw a dedicated exception instead of using a generic one.(àØ
+jsquid:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(§ï®€
+osquid:S3776‚#"RRefactor this method to reduce its Cognitive Complexity from 93 to the 15 allowed.(ûÒ•ïüÿÿÿÿ
+]squid:HiddenFieldCheck…#";Rename "length" which hides the field declared at line 102.(‚›5
+hsquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(Àö¦—ûÿÿÿÿ
+Vsquid:MissingDeprecatedCheckä"(Add the missing @deprecated Javadoc tag.(¿‚Éÿıÿÿÿÿ
+=squid:S2129Ğ" Remove this "Double" constructor(í©¢¥ûÿÿÿÿ
+Tsquid:S1854î"7Remove this useless assignment to local variable "cmp".(Ó“¨Ğûÿÿÿÿ
+jsquid:S3776¸%"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ûÂš
+Zsquid:CallToDeprecatedMethodè",Remove this use of "Long"; it is deprecated.(ğ¼¢»ıÿÿÿÿ
+Jsquid:S1199&"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
+6squid:S2129©"Remove this "Long" constructor(¼çñ™
+dsquid:S00112¨"FDefine and throw a dedicated exception instead of using a generic one.(±õ•öÿÿÿÿÿ
+8squid:S2129Ò" Remove this "Double" constructor(ıœÎş
+Osquid:S1135Ë"2Complete the task associated to this TODO comment.(–ÎûÖÿÿÿÿÿ
+1squid:S2225¼"Return a non null object.(¥¹ï
+gsquid:CallToDeprecatedMethod— "9Remove this use of "getConversionMask"; it is deprecated.(Ä¡Îøÿÿÿÿ
+csquid:S1192±"FDefine a constant instead of duplicating this literal "index" 3 times.(ÂÑÅ¡ÿÿÿÿÿ
+=squid:S2129É" Remove this "Double" constructor(Ê¸×…ûÿÿÿÿ
+`squid:HiddenFieldCheck%"=Rename "comments" which hides the field declared at line 109.(›à¡Ç
+Šsquid:S1192ï"rDefine a constant instead of duplicating this literal " : There was a data type error: the data type of " 7 times.(ÊÃô
+gsquid:HiddenFieldCheck–"?Rename "dateFormat" which hides the field declared at line 130.(çòÊÛıÿÿÿÿ
+Zsquid:CallToDeprecatedMethod©",Remove this use of "Long"; it is deprecated.(¸ÎÊíøÿÿÿÿ
+=squid:S2129¬	" Remove this "Double" constructor(ÚîÈ‡úÿÿÿÿ
+Nsquid:S2885ø"1Make "compatibleDateFormat" an instance variable.(­öÁµıÿÿÿÿ
+:squid:S2386å"Make this member "protected".(ºËåùùÿÿÿÿ
+Osquid:S1135º"2Complete the task associated to this TODO comment.(–ÎûÖÿÿÿÿÿ
+Ã%squid:RedundantThrowsDeclarationCheckÓ"‹Remove the declaration of thrown exception 'org.pentaho.di.core.exception.KettleValueException', as it cannot be thrown from method's body.(×Ÿ‚Şúÿÿÿÿ
+Rsquid:S1133ä"5Do not forget to remove this deprecated code someday.(¿‚Éÿıÿÿÿÿ
+Ü%squid:RedundantThrowsDeclarationCheckØ"©Remove the declaration of thrown exception 'org.pentaho.di.core.exception.KettleEOFException' which is a subclass of 'org.pentaho.di.core.exception.KettleFileException'.(šˆ¼µ
+jsquid:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ÙÏ©»
+Zsquid:CallToDeprecatedMethod ",Remove this use of "Long"; it is deprecated.(¿—µ›üÿÿÿÿ
+csquid:HiddenFieldCheck ";Rename "length" which hides the field declared at line 102.(İÈÿÅıÿÿÿÿ
+gsquid:S1192ğ"JDefine a constant instead of duplicating this literal " object [" 7 times.(©ÿ¸¥üÿÿÿÿ
+Lsquid:S1066ı"/Merge this if statement with the enclosing one.(¶Ä»ıÿÿÿÿ
+osquid:S3776È"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(‡Ÿñ½úÿÿÿÿ
+Zsquid:CallToDeprecatedMethodÏ",Remove this use of "Long"; it is deprecated.(£Üòƒşÿÿÿÿ
+osquid:S00117ª'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äŒëÿÿÿÿÿ
+vsquid:S1488è"YImmediately return this expression instead of assigning it to the temporary variable "l".(ğ¼¢»ıÿÿÿÿ
+Rsquid:S1141é$"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+6squid:S2129"Remove this "Long" constructor(à„„È
+esquid:S1192Á"MDefine a constant instead of duplicating this literal " specified." 57 times.(×Ú€
+Vsquid:MissingDeprecatedCheckñ"(Add the missing @deprecated Javadoc tag.(æ×Öùÿÿÿÿ
+=squid:S2129Ş" Remove this "Double" constructor(Ì¥ ˆÿÿÿÿÿ
+;squid:S2129²"Remove this "Long" constructor(÷Ç´Šıÿÿÿÿ
+\squid:HiddenFieldCheck‰"9Rename "type" which hides the field declared at line 104.(ı¨îí
+8squid:S2129Û" Remove this "Double" constructor(—ì€
+^squid:S3027´'"FPut single-quotes around ''' to use the faster "indexOf(char)" method.(´…ÏÇ
+Rsquid:S1133ç	"5Do not forget to remove this deprecated code someday.(¥‘à¢şÿÿÿÿ
+osquid:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.(ìÙ™Ãúÿÿÿÿ
+isquid:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(¶¡‘a
+jsquid:S1192ö"RDefine a constant instead of duplicating this literal "collator_strength" 3 times.(–åº«
+\squid:HiddenFieldCheckû%"9Rename "type" which hides the field declared at line 104.(™Õ­´
+osquid:S00117ª'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äŒëÿÿÿÿÿ
+”squid:S1192á"wDefine a constant instead of duplicating this literal " : I can't convert the specified value to data type : " 3 times.(³ïæ‘ÿÿÿÿÿ
+Wsquid:CallToDeprecatedMethodÒ".Remove this use of "Double"; it is deprecated.(ıœÎş
+osquid:HiddenFieldCheck…%"GRename "originalColumnType" which hides the field declared at line 150.(ß×¦üÿÿÿÿ
+csquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(ØÖÙË
+Jsquid:S1135å$"2Complete the task associated to this TODO comment.(²Ï•
+Gsquid:S1066ã#"/Merge this if statement with the enclosing one.(‚‘ûî
+8squid:S2129Ÿ" Remove this "Double" constructor(¦ç÷ñ
+jsquid:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(­òÙ£
+jsquid:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(û¸°•
+_squid:S00112Ó"FDefine and throw a dedicated exception instead of using a generic one.(àØ
+Msquid:S1133Š"5Do not forget to remove this deprecated code someday.(üÏ¢
+Wsquid:CallToDeprecatedMethodÛ".Remove this use of "Double"; it is deprecated.(—ì€
+\squid:CallToDeprecatedMethod¬	".Remove this use of "Double"; it is deprecated.(ÚîÈ‡úÿÿÿÿ
+Rsquid:S1133Â"5Do not forget to remove this deprecated code someday.(êÀ·¿úÿÿÿÿ
+Ÿ%squid:RedundantThrowsDeclarationCheckŒ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Ş†ûÏ
+=squid:S2129İ" Remove this "Double" constructor(À¡îùûÿÿÿÿ
+csquid:CommentedOutCodeLineğ	"<This block of commented-out lines of code should be removed.(Æ×„Å
+8squid:S2129ß" Remove this "Double" constructor(Ç×’¡
+Æ%squid:RedundantThrowsDeclarationCheckù%"Remove the declaration of thrown exception 'org.pentaho.di.core.exception.KettleDatabaseException', as it cannot be thrown from method's body.(àˆåúÿÿÿÿ
+fsquid:HiddenFieldCheck†#">Rename "precision" which hides the field declared at line 103.(…©Ğ¥øÿÿÿÿ
+€squid:S1192Y"dUse already-defined constant 'COMPATIBLE_DATE_FORMAT_PATTERN' instead of duplicating its value here.(ü¨˜ÿÿÿÿÿ
+7squid:S2129Ô" Remove this "Double" constructor(ù›û'
+Esquid:S2447±	"-Null is returned but a "Boolean" is expected.(¥¹ï
+gsquid:CallToDeprecatedMethod¬ "9Remove this use of "getConversionMask"; it is deprecated.(Ä¡Îøÿÿÿÿ
+osquid:S3776£"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ü·íÛıÿÿÿÿ
+vsquid:S1488¨"^Immediately return this expression instead of assigning it to the temporary variable "string".(ú†¦˜
+Osquid:S1172ø%"8Remove this unused method parameter "databaseInterface".(ø¹–l
+isquid:S00117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»««
+Jsquid:S1135™"2Complete the task associated to this TODO comment.(şû»
+>squid:S1168¸"&Return an empty array instead of null.(¥¹ï
+asquid:S2259"DA "NullPointerException" could be thrown; "object" is nullable here.(©ÿ¸¥üÿÿÿÿ
+ksquid:S3776‰&"SRefactor this method to reduce its Cognitive Complexity from 101 to the 15 allowed.(òÊï©
+rsquid:S1192Á"ZDefine a constant instead of duplicating this literal " : Unknown storage type " 53 times.(×Ú€
+Vsquid:S4719"9Replace charset name argument with StandardCharsets.UTF_8(÷ñ¼‚úÿÿÿÿ
+Esquid:S2447§"-Null is returned but a "Boolean" is expected.(¥¹ï
+;squid:S2129©"Remove this "Long" constructor(¸ÎÊíøÿÿÿÿ
+jsquid:HiddenFieldCheck’%"BRename "originalScale" which hides the field declared at line 153.(¸ÁñÁûÿÿÿÿ
+isquid:S1192ƒ"QDefine a constant instead of duplicating this literal " : Unknown type " 8 times.(¨Ÿ˜
+csquid:CallToDeprecatedMethod×"5Remove this use of "ValueMetaBase"; it is deprecated.(á‹™‹ÿÿÿÿÿ
+Wsquid:CallToDeprecatedMethodŸ".Remove this use of "Double"; it is deprecated.(¦ç÷ñ
+:squid:S2386¨"Make this member "protected".(‚Ë…ïÿÿÿÿÿ
+gsquid:CallToDeprecatedMethod– "9Remove this use of "getConversionMask"; it is deprecated.(ïî¢ÿùÿÿÿÿ
+\squid:CallToDeprecatedMethodĞ".Remove this use of "Double"; it is deprecated.(í©¢¥ûÿÿÿÿ
+Rsquid:S1141Œ#"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Vsquid:CallToDeprecatedMethodÔ".Remove this use of "Double"; it is deprecated.(ù›û'
+vsquid:S1488Ş"YImmediately return this expression instead of assigning it to the temporary variable "d".(Ì¥ ˆÿÿÿÿÿ
+:squid:S2386£"Make this member "protected".(ªœÁúøÿÿÿÿ
+^squid:HiddenFieldCheck—";Rename "origin" which hides the field declared at line 108.(¦öÆ
+nsquid:HiddenFieldCheck‹%"FRename "originalPrecision" which hides the field declared at line 152.(ï÷ç¢ÿÿÿÿÿ

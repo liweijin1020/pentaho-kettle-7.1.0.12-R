@@ -1,0 +1,241 @@
+
+dsquid:S1192°"LDefine a constant instead of duplicating this literal "IS NOT NULL" 3 times.(°ÔÃ×
+lsquid:S00116‰"SRename this field "sel_stmt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†”‡
+osquid:S00117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÌ³˜şÿÿÿÿ
+Rsquid:S1141Ã"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Šsquid:S1319€"rThe type of the "counters" object should be an interface such as "Map" rather than the implementation "Hashtable".(¾À²
+Zsquid:S1163ê"=Refactor this code to not throw exceptions in finally blocks.(ª ª«ùÿÿÿÿ
+Rsquid:S1141à"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+jsquid:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(âÎÙ«
+Rsquid:S1133Ş"5Do not forget to remove this deprecated code someday.(¬¦“¡úÿÿÿÿ
+osquid:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¸è³­úÿÿÿÿ
+^squid:S2147¸"FCombine this catch with the one at line 3251, which has the same body.(”ı¾
+Tsquid:S1163õ"=Refactor this code to not throw exceptions in finally blocks.(Ş–âq
+\squid:CallToDeprecatedMethodô!".Remove this use of "Double"; it is deprecated.(ÅÜÎ¿úÿÿÿÿ
+jsquid:S00117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³Í¾Ë
+osquid:S00117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ÀÄÓşÿÿÿÿ
+gsquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+3squid:S1643"Use a StringBuilder instead.(Íòö
+osquid:S00117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ÀÄÓşÿÿÿÿ
+‰squid:S1319û"rThe type of the "counters" object should be an interface such as "Map" rather than the implementation "Hashtable".(·Š·
+Rsquid:S1141ı"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+osquid:S00117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ØØäıÿÿÿÿ
+_squid:S1192ã"GDefine a constant instead of duplicating this literal "WHERE " 3 times.(‡ãíÏ
+_squid:S2095Ù"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¨¹¡—
+jsquid:S00117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ·‘­
+qsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ³§Â
+Qsquid:S2864»"4Iterate over the "entrySet" instead of the "keySet".(Õ¡±éşÿÿÿÿ
+Ksquid:S1143õ"4Remove this throw statement from this finally block.(Ş–âq
+dsquid:S00112µ"FDefine and throw a dedicated exception instead of using a generic one.(„¯Êæüÿÿÿÿ
+Hsquid:S1172À"0Remove this unused method parameter "semicolon".(óÉ¾³
+9squid:S1643Ô"Use a StringBuilder instead.(ñ¤¢Ôøÿÿÿÿ
+>squid:S1168²$"&Return an empty array instead of null.(¥¹ï
+Rsquid:S1133¶"5Do not forget to remove this deprecated code someday.(Ú«‡÷üÿÿÿÿ
+qsquid:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒˆÔ
+7squid:S2097’"Add a type test to this method.(ÜÑã
+bsquid:S1192ş"JDefine a constant instead of duplicating this literal "TABLE_CAT" 3 times.(ìïÛ›
+osquid:S00117‡$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û”Òçùÿÿÿÿ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëì•¬ùÿÿÿÿ
+osquid:S00117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÙ°Ìıÿÿÿÿ
+Zsquid:S1163ñ"=Refactor this code to not throw exceptions in finally blocks.(ÑÓ‘åşÿÿÿÿ
+]squid:S2147‚"ECombine this catch with the one at line 511, which has the same body.(ıàÑÎ
+jsquid:S00117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¢
+3squid:S1643«"Use a StringBuilder instead.(¢Ú–s
+_squid:S1192ª"GDefine a constant instead of duplicating this literal "read :" 5 times.(Í´¯Ÿ
+Usquid:S1163¯"=Refactor this code to not throw exceptions in finally blocks.(·œâ«
+_squid:HiddenFieldCheckÿ"<Rename "rowMeta" which hides the field declared at line 148.(û×Õ½
+qsquid:S2293õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å§ÄÍ
+jsquid:S3776ş""RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(±ÜÉ¹
+osquid:S00117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¥„ÿÿÿÿÿ
+Lsquid:S1066¶"/Merge this if statement with the enclosing one.(Š³Ô¤ıÿÿÿÿ
+Qsquid:S1143ê"4Remove this throw statement from this finally block.(ª ª«ùÿÿÿÿ
+osquid:S00117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ÀÄÓşÿÿÿÿ
+Rsquid:S1141Í"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷›ºK
+Lsquid:S1172û"/Remove this unused method parameter "keyfield".(§Ã¢Çıÿÿÿÿ
+vsquid:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(İÍ»Üúÿÿÿÿ
+Usquid:S00107“"<Method has 8 parameters, which is greater than 7 authorized.(¥›ˆ·
+Lsquid:S1143í"4Remove this throw statement from this finally block.(ò‚ãô
+vsquid:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûªÀöÿÿÿÿÿ
+osquid:S00117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¿š×şÿÿÿÿ
+=squid:S2129Ç!" Remove this "Double" constructor(°ø‘ìıÿÿÿÿ
+Osquid:S2589–"7Remove this expression which always evaluates to "true"(³™§Ã
+csquid:CommentedOutCodeLineı"<This block of commented-out lines of code should be removed.(ß•°Ì
+Rsquid:S1141¸"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ºç‘Ä
+4squid:S1643©"Use a StringBuilder instead.(îøˆØ
+9squid:S1643±%"Use a StringBuilder instead.(ö»€Ğûÿÿÿÿ
+Usquid:S1163—$"=Refactor this code to not throw exceptions in finally blocks.(Í—À•
+=squid:S2129ó" Remove this "String" constructor(Ç®ñÍùÿÿÿÿ
+dsquid:S2095ì"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(»õû‚şÿÿÿÿ
+Usquid:S1163¤"=Refactor this code to not throw exceptions in finally blocks.(ÿşê¬
+Rsquid:S1141®"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141ê"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Usquid:S1163˜"=Refactor this code to not throw exceptions in finally blocks.(Ğò³ù
+jsquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏáŞû
+Jsquid:S1135ê"2Complete the task associated to this TODO comment.(¼†ôé
+Lsquid:S1066ˆ"/Merge this if statement with the enclosing one.(ˆ›¸øıÿÿÿÿ
+Lsquid:S1143˜"4Remove this throw statement from this finally block.(Ğò³ù
+4squid:S1643§"Use a StringBuilder instead.(›µó¡
+osquid:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ëÓªŒÿÿÿÿÿ
+qsquid:S2293ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(·­ğÂ
+jsquid:S00117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷şÑ­
+ysquid:S1192Œ"aDefine a constant instead of duplicating this literal "Truncate table not supported by " 3 times.(æ“Ç©
+bsquid:S2147Ê"ECombine this catch with the one at line 584, which has the same body.(‡˜ÚÚøÿÿÿÿ
+_squid:CallToDeprecatedMethodÀ!"1Remove this use of "ValueMeta"; it is deprecated.(şÒéáıÿÿÿÿ
+=squid:S2129ô!" Remove this "Double" constructor(ÅÜÎ¿úÿÿÿÿ
+Fsquid:S1066—"/Merge this if statement with the enclosing one.(Û»¤
+\squid:CallToDeprecatedMethodÇ!".Remove this use of "Double"; it is deprecated.(°ø‘ìıÿÿÿÿ
+Rsquid:S1141‡"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Tsquid:S1163Ô"=Refactor this code to not throw exceptions in finally blocks.(‚ÙN
+Zsquid:S00107€"<Method has 8 parameters, which is greater than 7 authorized.(ş€Ú½øÿÿÿÿ
+isquid:S00117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Š·
+qsquid:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒˆÔ
+qsquid:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜©
+_squid:S2886Ø "BSynchronize this method to match the synchronization on "setCopy".(›ù—¹ùÿÿÿÿ
+csquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(ã¥Œñ
+dsquid:S00112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(à³Šôıÿÿÿÿ
+Rsquid:S1141Ë"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+qsquid:S2293Ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ³§Â
+esquid:S1192®"HDefine a constant instead of duplicating this literal "BETWEEN" 3 times.(ç¬š¾ÿÿÿÿÿ
+@squid:S1148á"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+jsquid:S00117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü‹ô€
+osquid:S00117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¿š×şÿÿÿÿ
+Osquid:S2589í"7Remove this expression which always evaluates to "true"(è÷Ù™
+9squid:S1643Ÿ"Use a StringBuilder instead.(ñ¤¢Ôøÿÿÿÿ
+_squid:HiddenFieldChecká"<Rename "rowMeta" which hides the field declared at line 148.(ôğ¶ü
+csquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(…•¤µ
+jsquid:S00117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÿí
+_squid:S00112¿"FDefine and throw a dedicated exception instead of using a generic one.(¤õô
+Fsquid:S1066¤"/Merge this if statement with the enclosing one.(‚µt
+Lsquid:S1143¯"4Remove this throw statement from this finally block.(·œâ«
+@squid:S1604·"(Make this anonymous inner class a lambda(ŞãÇ·
+hsquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(ÍÏŠ¯ÿÿÿÿÿ
+4squid:S1643¯"Use a StringBuilder instead.(îøˆØ
+^squid:S1192•"FDefine a constant instead of duplicating this literal "INOUT" 3 times.(ë½÷İ
+4squid:S1643­"Use a StringBuilder instead.(şéÌ±
+osquid:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÙŒæ¶ùÿÿÿÿ
+osquid:S00117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¥„ÿÿÿÿÿ
+Msquid:S1133Ê"5Do not forget to remove this deprecated code someday.(ã¸¤
+jsquid:S1192¯"RDefine a constant instead of duplicating this literal " BETWEEN ? AND ? " 3 times.(îøˆØ
+Lsquid:S1143¤"4Remove this throw statement from this finally block.(ÿşê¬
+9squid:S1643¡"Use a StringBuilder instead.(³ê´Êÿÿÿÿÿ
+Qsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(Á˜ùúüÿÿÿÿ
+dsquid:HiddenFieldCheck¸"<Rename "rowMeta" which hides the field declared at line 148.(ÍûŒªüÿÿÿÿ
+Lsquid:S1066’
+"/Merge this if statement with the enclosing one.(“İøÇıÿÿÿÿ
+csquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(ëºğœ
+_squid:S2095Ä"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ğ°Ó²
+_squid:S00112à"FDefine and throw a dedicated exception instead of using a generic one.(ÜÊÃˆ
+osquid:S00117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãİ–şøÿÿÿÿ
+9squid:S1643"Use a StringBuilder instead.(™ÕÉñşÿÿÿÿ
+msquid:S1192¤
+"UDefine a constant instead of duplicating this literal "Error updating batch" 6 times.(‰ï•
+Dsquid:S1172×",Remove this unused method parameter "dummy".(¶è†·
+qsquid:S2293Ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ¨Ú¼
+_squid:CallToDeprecatedMethodÀ!"1Remove this use of "ValueMeta"; it is deprecated.(şÒéáıÿÿÿÿ
+qsquid:S2293ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓËŒÓ
+vsquid:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÂÒÍêøÿÿÿÿ
+hsquid:CommentedOutCodeLine«"<This block of commented-out lines of code should be removed.(ğŒÓºøÿÿÿÿ
+osquid:S00117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÌ³˜şÿÿÿÿ
+Bsquid:S1181Ê"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+9squid:S1643­"Use a StringBuilder instead.(¢ƒÃ¸şÿÿÿÿ
+8squid:S2129ñ" Remove this "String" constructor(ªİó¶
+4squid:S1643£"Use a StringBuilder instead.(İÁîù
+Rsquid:S1141¼#"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+qsquid:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ³§Â
+jsquid:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¤¿œ”
+jsquid:S00117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥§’¡
+Usquid:S1163æ"=Refactor this code to not throw exceptions in finally blocks.(ÂôÏÅ
+Zsquid:S1163´"=Refactor this code to not throw exceptions in finally blocks.(œç¥Åúÿÿÿÿ
+dsquid:S1192ˆ"LDefine a constant instead of duplicating this literal "TABLE_SCHEM" 3 times.(ÙéÒî
+dsquid:S2095ş"GUse try-with-resources or close this "Statement" in a "finally" clause.(õ½ÛØşÿÿÿÿ
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÌ“¨
+4squid:S1643ç"Use a StringBuilder instead.(ŸÄï˜
+Á%squid:RedundantThrowsDeclarationCheckÕ""Remove the declaration of thrown exception 'org.pentaho.di.core.exception.KettleDatabaseException', as it cannot be thrown from method's body.(×¢†‘
+Lsquid:S2864İ"4Iterate over the "entrySet" instead of the "keySet".(±Ğ
+jsquid:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ßó©Ä
+osquid:S00117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á‚¤´úÿÿÿÿ
+jsquid:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(íû°ş
+Lsquid:S1143—$"4Remove this throw statement from this finally block.(Í—À•
+dsquid:CallToDeprecatedMethodÒ
+"6Remove this use of "insertFinished"; it is deprecated.(ç—ïàùÿÿÿÿ
+jsquid:S00117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢õ˜Å
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(³íÿ¾
+jsquid:S3776ó	"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¸Î‘Ó
+Gsquid:S2093%"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Lsquid:S1143‡"4Remove this throw statement from this finally block.(ÿşê¬
+Lsquid:S1143æ"4Remove this throw statement from this finally block.(ÂôÏÅ
+asquid:S2886® "DSynchronize this method to match the synchronization on "setOpened".(èŒôŠùÿÿÿÿ
+Lsquid:S1066Ó"/Merge this if statement with the enclosing one.(Š³Ô¤ıÿÿÿÿ
+_squid:CallToDeprecatedMethodÍ"6Remove this use of "commitInternal"; it is deprecated.(Æ€êå
+jsquid:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ØçØ
+_squid:S2095”"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(÷¼Õ£
+osquid:S00117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™æüïùÿÿÿÿ
+osquid:S00117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øé·óÿÿÿÿÿ
+9squid:S1643±"Use a StringBuilder instead.(é¡üÿÿÿÿ
+]squid:S2259Â"FA "NullPointerException" could be thrown; "logField" is nullable here.(ïÑ¦\
+3squid:S1643¥"Use a StringBuilder instead.(¢Ú–s
+Rsquid:S1141·"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Csquid:S1172Ü"+Remove this unused method parameter "data".(™ÎûÙ
+Usquid:S1163‡"=Refactor this code to not throw exceptions in finally blocks.(ÿşê¬
+vsquid:S2293Ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(û˜Çİıÿÿÿÿ
+Bsquid:S1172É"*Remove this unused method parameter "row".(çüıú
+Gsquid:S1066Â"/Merge this if statement with the enclosing one.(¼æô
+osquid:S00117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¿š×şÿÿÿÿ
+Rsquid:S1133¸
+"5Do not forget to remove this deprecated code someday.(ÿ¿àÎıÿÿÿÿ
+jsquid:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(‡ë «
+asquid:HiddenFieldCheckÍ"9Rename "dbmd" which hides the field declared at line 146.(’­‹ìüÿÿÿÿ
+asquid:CallToDeprecatedMethod÷"3Remove this use of "newInstance"; it is deprecated.(‡³Ô²üÿÿÿÿ
+9squid:S1643«"Use a StringBuilder instead.(é¡üÿÿÿÿ
+9squid:S1643œ"Use a StringBuilder instead.(Óù ³üÿÿÿÿ
+hsquid:S1206’"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã
+bsquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(Ñê‘c
+jsquid:S00117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÉıÒ
+hsquid:CommentedOutCodeLine¬
+"<This block of commented-out lines of code should be removed.(ò‰´Ïúÿÿÿÿ
+hsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(ŠõıÀüÿÿÿÿ
+Vsquid:MissingDeprecatedCheckŞ"(Add the missing @deprecated Javadoc tag.(¬¦“¡úÿÿÿÿ
+jsquid:S00117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Àˆğ
+osquid:S3776¸!"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(‡ëùıÿÿÿÿ
+Esquid:S1172Ò"-Remove this unused method parameter "status".(ß§úæ
+Ksquid:S1143Ô"4Remove this throw statement from this finally block.(‚ÙN
+osquid:S00117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á‚¤´úÿÿÿÿ
+Fsquid:S1066«"/Merge this if statement with the enclosing one.(‚µt
+Rsquid:S1141¢"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+jsquid:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ì¢é
+osquid:S00117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™æüïùÿÿÿÿ
+csquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(èó‡
+Nsquid:S1172€"1Remove this unused method parameter "schemaname".(ş€Ú½øÿÿÿÿ
+rsquid:S00116"TRename this field "pstmt_seq" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚èƒùøÿÿÿÿ
+Qsquid:S1143´"4Remove this throw statement from this finally block.(œç¥Åúÿÿÿÿ
+jsquid:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 70 to the 15 allowed.(Í´¤´
+osquid:S00117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šá¨˜şÿÿÿÿ
+jsquid:S00117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßó©Ä
+osquid:S00117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øé·óÿÿÿÿÿ
+~squid:S4144Ù$"aUpdate this method so that its implementation is not identical to "getParentObject" on line 4598.(íé­÷ùÿÿÿÿ
+osquid:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Î¹£×ûÿÿÿÿ
+jsquid:S3776€"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¾À²
+osquid:S00117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¨ºşÿÿÿÿ
+dsquid:S00112©"FDefine and throw a dedicated exception instead of using a generic one.(Ïã¡İşÿÿÿÿ
+9squid:S1643³%"Use a StringBuilder instead.(æäÔøÿÿÿÿ
+9squid:S1643Ö"Use a StringBuilder instead.(íø“§üÿÿÿÿ
+dsquid:HiddenFieldCheckÖ"<Rename "rowMeta" which hides the field declared at line 148.(ÍûŒªüÿÿÿÿ
+osquid:S3776î"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Åä„ªıÿÿÿÿ
+jsquid:S3776“"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¥›ˆ·
+osquid:S3776â"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(µéã…ùÿÿÿÿ
+Lsquid:S1066ñ"/Merge this if statement with the enclosing one.(Š³Ô¤ıÿÿÿÿ
+osquid:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(„¯Êæüÿÿÿÿ
+Qsquid:S1143ñ"4Remove this throw statement from this finally block.(ÑÓ‘åşÿÿÿÿ
+osquid:S00117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îº£Åøÿÿÿÿ
+`squid:S1192°"HDefine a constant instead of duplicating this literal "IS NULL" 3 times.(°ÔÃ×
+jsquid:S1192 "MDefine a constant instead of duplicating this literal "DELETE FROM " 5 times.(Ü†ÇÓşÿÿÿÿ
+osquid:S00117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙŒæ¶ùÿÿÿÿ
+Usquid:S1163í"=Refactor this code to not throw exceptions in finally blocks.(ò‚ãô
+^squid:S2147¶"FCombine this catch with the one at line 3251, which has the same body.(É®£
+9squid:S1643³"Use a StringBuilder instead.(¢ƒÃ¸şÿÿÿÿ
+[squid:S2259”"CA "NullPointerException" could be thrown; "other" is nullable here.(„ãŞ˜
+9squid:S1643Ö"Use a StringBuilder instead.(ÅşÕºıÿÿÿÿ
+qsquid:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(àŸùÙ

@@ -1,0 +1,10 @@
+
+jsquid:S3008&"NRename this field "PKG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÐÊ‘áùÿÿÿÿ
+Asquid:S1181C"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+Asquid:S1181s"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+?squid:S1148L"#Use a logger to log this exception.(¯Óí‘úÿÿÿÿ
+O
+squid:S106U"9Replace this use of System.out or System.err by a logger.(®Ó¥·
+Wsquid:S1193F"@Replace the usage of the "instanceof" operator by a catch block.(Ýº¬Ø
+asquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(ÿâ
+?squid:S1148Z"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

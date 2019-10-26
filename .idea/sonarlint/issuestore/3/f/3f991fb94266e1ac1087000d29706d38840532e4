@@ -1,0 +1,16 @@
+
+csquid:S00112^"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+dsquid:S00112Î"FDefine and throw a dedicated exception instead of using a generic one.(É¢íúÿÿÿÿ
+dsquid:S00112ß"FDefine and throw a dedicated exception instead of using a generic one.(Œ‡¢Šøÿÿÿÿ
+jsquid:S2975Y"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ºÇ½­
+_squid:S1182Y"HUse super.clone() to create and seed the cloned instance to be returned.(ºÇ½­
+vsquid:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹¦†½ùÿÿÿÿ
+Esquid:S2447‘"-Null is returned but a "Boolean" is expected.(¥¹ï
+>squid:S1168¢"&Return an empty array instead of null.(¥¹ï
+Rsquid:S1133‚"5Do not forget to remove this deprecated code someday.(ÉÔ™¼ÿÿÿÿÿ
+Zsquid:CallToDeprecatedMethod’	"1Remove this use of "ValueMeta"; it is deprecated.(Ş¨õÙ
+Zsquid:CallToDeprecatedMethod”	"1Remove this use of "ValueMeta"; it is deprecated.(ì†Öû
+Zsquid:CallToDeprecatedMethod”	"1Remove this use of "ValueMeta"; it is deprecated.(ì†Öû
+_squid:CallToDeprecatedMethod¿	"1Remove this use of "ValueMeta"; it is deprecated.(öô¾õÿÿÿÿÿ
+vsquid:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼ĞÊíıÿÿÿÿ

@@ -1,0 +1,110 @@
+
+osquid:CallToDeprecatedMethodÉ"ARemove this use of "DatabaseInterfaceExtended"; it is deprecated.(¿‹ÎÈûÿÿÿÿ
+Xsquid:S1193²"@Replace the usage of the "instanceof" operator by a catch block.(‹âÍÒ
+Rsquid:S1133¥"5Do not forget to remove this deprecated code someday.(ù«Üÿÿÿÿÿ
+hsquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(™¨£³ûÿÿÿÿ
+Msquid:S1133İ"5Do not forget to remove this deprecated code someday.(àì¿ï
+Msquid:S1133Õ"5Do not forget to remove this deprecated code someday.(ªÙÊ
+Rsquid:S1133­"5Do not forget to remove this deprecated code someday.(òÅ ùÿÿÿÿ
+jsquid:S00117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë·«Ü
+u
+squid:S135ø"YReduce the total number of break and continue statements in this loop to use at most one.(…¬å¿ıÿÿÿÿ
+Rsquid:S1133"5Do not forget to remove this deprecated code someday.(–ÃÙˆüÿÿÿÿ
+4squid:S1643—"Use a StringBuilder instead.(À¼ĞÖ
+Msquid:S1133å"5Do not forget to remove this deprecated code someday.(ğ¹Ñı
+_squid:S00112ı"FDefine and throw a dedicated exception instead of using a generic one.(Í‡Å
+U
+squid:S106“"9Replace this use of System.out or System.err by a logger.(Ì»‘şÿÿÿÿ
+^squid:S1192Ü"FDefine a constant instead of duplicating this literal "TABLE" 5 times.(´¡üµ
+hsquid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+Rsquid:S1133Õ"5Do not forget to remove this deprecated code someday.(Ÿåìêşÿÿÿÿ
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šÿù®
+osquid:S00117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çáñşÿÿÿÿ
+|squid:S1149à"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¤ç¯Œÿÿÿÿÿ
+Qsquid:S2864ú	"4Iterate over the "entrySet" instead of the "keySet".(‚òç‹ÿÿÿÿÿ
+osquid:S00117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£À›øÿÿÿÿ
+Msquid:S1133•"5Do not forget to remove this deprecated code someday.(àµÚò
+asquid:CallToDeprecatedMethodˆ"3Remove this use of "newInstance"; it is deprecated.( ÿ³Êûÿÿÿÿ
+gsquid:S1192ø"JDefine a constant instead of duplicating this literal "attribute" 3 times.(ÿı²‘şÿÿÿÿ
+:squid:S2386Ğ"Make this member "protected".(–ãáÔşÿÿÿÿ
+Rsquid:S1133É"5Do not forget to remove this deprecated code someday.(€Ôáùşÿÿÿÿ
+Rsquid:S1133•"5Do not forget to remove this deprecated code someday.(ˆ¿öÿÿÿÿÿ
+9squid:S1643ú"Use a StringBuilder instead.(¼¨€áşÿÿÿÿ
+Rsquid:S1133•"5Do not forget to remove this deprecated code someday.(°Öóüÿÿÿÿ
+osquid:S3776¹	"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ˆâÁ£øÿÿÿÿ
+jsquid:CallToDeprecatedMethodÈ"ARemove this use of "DatabaseInterfaceExtended"; it is deprecated.(©©æõ
+Lsquid:S1133"5Do not forget to remove this deprecated code someday.(£ö×U
+Msquid:S1133Å"5Do not forget to remove this deprecated code someday.(İ¶«í
+Rsquid:S1133­"5Do not forget to remove this deprecated code someday.(´×Ãœşÿÿÿÿ
+jsquid:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(ï¢Š
+Rsquid:S1133¥"5Do not forget to remove this deprecated code someday.(’˜±àşÿÿÿÿ
+osquid:S00117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¾ÓŞûÿÿÿÿ
+dsquid:S00112œ"FDefine and throw a dedicated exception instead of using a generic one.(‘ÃËúÿÿÿÿ
+esquid:S1192Ì"MUse already-defined constant 'XML_TAG' instead of duplicating its value here.(Ë–ÿŞ
+Rsquid:S1133…"5Do not forget to remove this deprecated code someday.(é úùÿÿÿÿ
+dsquid:S00112µ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+vsquid:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š¼ó±ûÿÿÿÿ
+qsquid:S2293÷
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(—Î¿ğ
+osquid:S00117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¾®Şÿÿÿÿÿ
+Rsquid:S1133"5Do not forget to remove this deprecated code someday.(İÅ³½úÿÿÿÿ
+Rsquid:S1133½"5Do not forget to remove this deprecated code someday.(¿Åú›şÿÿÿÿ
+Ysquid:S1126à"AReplace this if-then-else statement by a single return statement.(»Ñ»Ã
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½„Ê½
+Msquid:S1133‰
+"5Do not forget to remove this deprecated code someday.(ëß˜õ
+:squid:S2386Ë"Make this member "protected".(²¦†åøÿÿÿÿ
+Msquid:S1133õ"5Do not forget to remove this deprecated code someday.(¼ª’
+vsquid:S2293«"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò›à—ùÿÿÿÿ
+hsquid:HiddenFieldCheck"ERename "databaseInterface" which hides the field declared at line 99.(·±‡­
+Msquid:S1133í"5Do not forget to remove this deprecated code someday.(Ö¼í‹
+Gsquid:S1066¸"/Merge this if statement with the enclosing one.(¶Ú÷é
+Msquid:S1133"5Do not forget to remove this deprecated code someday.(îŒ¤ˆ
+Esquid:S3077e".Remove the "volatile" keyword from this field.(“¶Â‚
+isquid:S00117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û˜ôB
+Lsquid:S1133¥"5Do not forget to remove this deprecated code someday.(İïÏ3
+Rsquid:S1133µ"5Do not forget to remove this deprecated code someday.(ö±Æ˜ùÿÿÿÿ
+vsquid:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ
+fsquid:S1192î"IDefine a constant instead of duplicating this literal "password" 3 times.(¦¬®ˆúÿÿÿÿ
+Rsquid:S1133"5Do not forget to remove this deprecated code someday.(»Ó•ßıÿÿÿÿ
+Rsquid:S1133Í"5Do not forget to remove this deprecated code someday.(ù¯åûÿÿÿÿ
+4squid:S1643¤"Use a StringBuilder instead.(À¼ĞÖ
+gsquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+jsquid:S3008S"NRename this field "PKG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÈ––ûÿÿÿÿ
+Usquid:S00107ƒ"<Method has 8 parameters, which is greater than 7 authorized.(¥àÒ”
+Msquid:S1133Å"5Do not forget to remove this deprecated code someday.(á´ŠÇ
+Rsquid:S1133ı"5Do not forget to remove this deprecated code someday.(øñşÃıÿÿÿÿ
+>squid:S1168¿"&Return an empty array instead of null.(¥¹ï
+_squid:S00112ˆ"FDefine and throw a dedicated exception instead of using a generic one.(üµŒ˜
+hsquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(ÚÓ¡·üÿÿÿÿ
+4squid:S1643±"Use a StringBuilder instead.(À¼ĞÖ
+Rsquid:S1141Û"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Msquid:S1133õ"5Do not forget to remove this deprecated code someday.(ø¯­”
+Rsquid:S1133…"5Do not forget to remove this deprecated code someday.(ÃÔÊÀÿÿÿÿÿ
+osquid:S00117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…òèùÿÿÿÿ
+jsquid:S00117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÄ¢„
+Lsquid:S1133"5Do not forget to remove this deprecated code someday.(áí¸^
+Msquid:S1133İ"5Do not forget to remove this deprecated code someday.(à‡İ«
+Rsquid:S1133í"5Do not forget to remove this deprecated code someday.(ÆÿÚ•ùÿÿÿÿ
+ksquid:S2975í"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+vsquid:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì™úÖüÿÿÿÿ
+_squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(²ÃÇí
+>squid:S1604\"(Make this anonymous inner class a lambda(å“Î9
+Msquid:S1133å"5Do not forget to remove this deprecated code someday.(•ƒÃÏ
+Lsquid:S1133ı"5Do not forget to remove this deprecated code someday.(«£Ç
+Rsquid:S1133‘"5Do not forget to remove this deprecated code someday.(ší¢Íøÿÿÿÿ
+^squid:S1126"AReplace this if-then-else statement by a single return statement.(ë†öÛüÿÿÿÿ
+Rsquid:S1133½"5Do not forget to remove this deprecated code someday.(¤îİ™øÿÿÿÿ
+Msquid:S1133…"5Do not forget to remove this deprecated code someday.(ßòªè
+Rsquid:S1133­"5Do not forget to remove this deprecated code someday.(ßçïˆüÿÿÿÿ
+Lsquid:S1133Í"5Do not forget to remove this deprecated code someday.(İŠ
+osquid:S00117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¾®Şÿÿÿÿÿ
+jsquid:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Şµ°è
+Rsquid:S1133µ"5Do not forget to remove this deprecated code someday.(¬€µŸÿÿÿÿÿ
+^squid:S1126"AReplace this if-then-else statement by a single return statement.(×Ê‡ôûÿÿÿÿ
+`squid:S1182í"HUse super.clone() to create and seed the cloned instance to be returned.(²ÈŞ
+Zsquid:S00107ñ"AConstructor has 8 parameters, which is greater than 7 authorized.(ü¼Ã
+^squid:S1126Ö"AReplace this if-then-else statement by a single return statement.(™İÀ–şÿÿÿÿ
+osquid:S00117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÕ“èşÿÿÿÿ
+bsquid:CommentedOutCodeLineí"<This block of commented-out lines of code should be removed.(ÈÉür

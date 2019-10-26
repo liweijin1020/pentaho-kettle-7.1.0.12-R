@@ -1,0 +1,13 @@
+
+Gsquid:S1066Ê"/Merge this if statement with the enclosing one.(ĞÃØì
+Rsquid:S1141˜"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141Á"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+jsquid:S30085"NRename this field "PKG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ–ßŸûÿÿÿÿ
+Fsquid:S1066S"/Merge this if statement with the enclosing one.(ĞÃØì
+nsquid:S00117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¼¸ûşÿÿÿÿ
+nsquid:S3776C"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(¤ƒŞƒúÿÿÿÿ
+jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(‰º²“
+Rsquid:S1854·"5Remove this useless assignment to local variable "r".(Ù°ÿÂşÿÿÿÿ
+Rsquid:S1141²"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Gsquid:S1066£"/Merge this if statement with the enclosing one.(«ÁÏ¶
+Fsquid:S1066h"/Merge this if statement with the enclosing one.(ĞÃØì

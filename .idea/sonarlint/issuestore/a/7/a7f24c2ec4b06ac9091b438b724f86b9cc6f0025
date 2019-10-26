@@ -1,0 +1,39 @@
+
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 68 to the 15 allowed.(ªèõÔşÿÿÿÿ
+gsquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+Msquid:S1133¿"5Do not forget to remove this deprecated code someday.(îÔŞÛ
+dsquid:S00112Ş"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+hsquid:CallToDeprecatedMethod8"ARemove this use of "DatabaseInterfaceExtended"; it is deprecated.(‡ƒÇ
+jsquid:S00117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë·«Ü
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…òèùÿÿÿÿ
+vsquid:S2293‡	"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚ãÂ»üÿÿÿÿ
+Vsquid:S3400©"9Remove this method and declare a constant for this value.(Ö§”Óşÿÿÿÿ
+esquid:HiddenFieldCheckÊ
+"=Rename "username" which hides the field declared at line 277.(İÖ¯ëşÿÿÿÿ
+ssquid:S1149‡	"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(‚ãÂ»üÿÿÿÿ
+vsquid:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñéèıÿÿÿÿ
+esquid:HiddenFieldCheckË
+"=Rename "password" which hides the field declared at line 278.(Æõç¿ûÿÿÿÿ
+5squid:S2386»"Make this member "protected".(¦ˆß£
+hsquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(‘æşØøÿÿÿÿ
+Rsquid:S1133¤"5Do not forget to remove this deprecated code someday.(ËŞı®øÿÿÿÿ
+`squid:S4635œ"HReplace "startsWith" with the overload that accepts an offset parameter.(Óª«’
+jsquid:S00117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à Äö
+„squid:S3038Ï"g"getAccessTypeList" is defined in the "DatabaseInterface" interface and can be removed from this class.(òº‘ïûÿÿÿÿ
+`squid:HiddenFieldCheckÇ
+"=Rename "hostname" which hides the field declared at line 275.(‰ïÏø
+Bsquid:S1172ª"*Remove this unused method parameter "dbm".(†Øå„
+ksquid:S2975Ö"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+csquid:S1192ç"FDefine a constant instead of duplicating this literal "false" 6 times.(üšÂØüÿÿÿÿ
+jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(½ûüä
+hsquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™öĞ¶øÿÿÿÿ
+esquid:S5361à"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ñ€÷øÿÿÿÿ
+rsquid:S2068x"V'PASSWORD' detected in this expression, review this potentially hard-coded credential.(‹ÂÎ¦ÿÿÿÿÿ
+Bsquid:S1172¦"*Remove this unused method parameter "dbm".(ŞääÔ
+hsquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(ÓÈ§Áüÿÿÿÿ
+jsquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øœƒ¡
+jsquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øœƒ¡
+hsquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(ÚÓ¡·üÿÿÿÿ
+9squid:S1643ª"Use a StringBuilder instead.(¤…¯•ıÿÿÿÿ

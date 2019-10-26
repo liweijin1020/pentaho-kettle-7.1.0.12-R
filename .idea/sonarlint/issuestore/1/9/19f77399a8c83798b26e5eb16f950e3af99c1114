@@ -1,0 +1,7 @@
+
+osquid:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(°Ë…Àşÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck5"WMake description a static final constant or non-public and provide accessors if needed.(¹ÿ†ğÿÿÿÿÿ
+"squid:ClassVariableVisibilityCheck?"QMake value a static final constant or non-public and provide accessors if needed.(çªÆà
+…"squid:ClassVariableVisibilityCheck:"XMake defaultValue a static final constant or non-public and provide accessors if needed.(Ãğ¤(
+squid:S1186E"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±ÌÊıÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck0"OMake key a static final constant or non-public and provide accessors if needed.(·¢¼Òüÿÿÿÿ

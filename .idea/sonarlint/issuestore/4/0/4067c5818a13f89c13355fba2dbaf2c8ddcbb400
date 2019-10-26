@@ -1,0 +1,159 @@
+
+qsquid:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(õøÛ»
+csquid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(Ç„»Ü
+csquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(Ï÷ôœ
+¥squid:S1186ñ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“Ÿûÿÿÿÿ8ıÓ½œà-
+esquid:S2142İ"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ıÓ½œà-
+bsquid:S2583ã"CChange this condition so that it does not always evaluate to "true"(›İé—8ıÓ½œà-
+vsquid:S3776º"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(´Ì”¸ûÿÿÿÿ8ıÓ½œà-
+[squid:CallToDeprecatedMethodÀ"2Remove this use of "linesInput"; it is deprecated.(“ßÃÛ
+qsquid:S2293è"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËôÆ
+_squid:CallToDeprecatedMethod"1Remove this use of "linesRead"; it is deprecated.(‡²±ùÿÿÿÿ
+vsquid:S00117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿äš¾üÿÿÿÿ8­ÆÉß-
+^squid:CallToDeprecatedMethod’"5Remove this use of "linesRejected"; it is deprecated.(¦š‰Ú
+[squid:CallToDeprecatedMethod "2Remove this use of "linesInput"; it is deprecated.(É¾Ò
+]squid:CallToDeprecatedMethodÉ"4Remove this use of "linesWritten"; it is deprecated.(Õòï¨
+vsquid:S3776§"RRefactor this method to reduce its Cognitive Complexity from 75 to the 15 allowed.(•ÓÜ‘şÿÿÿÿ8ıÓ½œà-
+Ysquid:CallToDeprecatedMethodá"1Remove this use of "linesRead"; it is deprecated.(ÄùÓ 
+€squid:S1192Ô"cDefine a constant instead of duplicating this literal "BaseStep.Log.NumberFormatException" 3 times.(õÂˆÎüÿÿÿÿ
+qsquid:S2293Ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş®Ä‹
+csquid:CallToDeprecatedMethod"5Remove this use of "linesRejected"; it is deprecated.(÷‹½Èøÿÿÿÿ
+Rsquid:S1133³"5Do not forget to remove this deprecated code someday.(ö±Ø±øÿÿÿÿ
+Dsquid:S2129“" Remove this "Double" constructor(„¦ñÍùÿÿÿÿ8ıÓ½œà-
+usquid:S2259°
+"VA "NullPointerException" could be thrown; "nextStepPartitioningMeta" is nullable here.(›İç½8ıÓ½œà-
+Ssquid:S1066à"/Merge this if statement with the enclosing one.(¬ÊÁâøÿÿÿÿ8ıÓ½œà-
+…"squid:ClassVariableVisibilityCheckˆ"QMake first a static final constant or non-public and provide accessors if needed.(¶ÆŒ²øÿÿÿÿ
+]squid:CallToDeprecatedMethodˆ"4Remove this use of "linesUpdated"; it is deprecated.(Ğ‹¦—
+vsquid:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚¾Ìİıÿÿÿÿ
+vsquid:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(àßúÃıÿÿÿÿ8ıÓ½œà-
+Esquid:S1168†"&Return an empty array instead of null.(¥¹ï8ıÓ½œà-
+]squid:CallToDeprecatedMethod¾"4Remove this use of "linesSkipped"; it is deprecated.(ÿ¤º
+Dsquid:S2129" Remove this "Double" constructor(Í„ºıÿÿÿÿ8ıÓ½œà-
+]squid:CallToDeprecatedMethod¼"4Remove this use of "linesSkipped"; it is deprecated.(«¡’ù
+msquid:HiddenFieldCheck¥
+">Rename "nextSteps" which hides the field declared at line 229.(şÌ©Èúÿÿÿÿ8ıÓ½œà-
+wsquid:S4144±	"_Update this method so that its implementation is not identical to "getDispatcher" on line 1123.(‹¬äé
+_squid:HiddenFieldCheck“"<Rename "slaveNr" which hides the field declared at line 326.(äº·œ
+`squid:CallToDeprecatedMethod‹"2Remove this use of "linesInput"; it is deprecated.(ÙƒÑíùÿÿÿÿ
+bsquid:CallToDeprecatedMethodÆ"4Remove this use of "linesSkipped"; it is deprecated.(å…²ˆùÿÿÿÿ
+>squid:S1659…"'Declare "stop_time" on a separate line.(äˆòt
+bsquid:CallToDeprecatedMethod½"4Remove this use of "linesUpdated"; it is deprecated.(ö——…ıÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck‹"VMake terminator a static final constant or non-public and provide accessors if needed.(³ìÑ¿ûÿÿÿÿ
+vsquid:S2293é"YReplace the type specification in this constructor call with the diamond operator ("<>").(•Ì˜‚ÿÿÿÿÿ
+Rsquid:S1133Ë"5Do not forget to remove this deprecated code someday.(¡°Õœşÿÿÿÿ
+Hsquid:S1125Ù")Remove the literal "false" boolean value.(ÚªË‚8ıÓ½œà-
+esquid:S2142Ì"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ıÓ½œà-
+csquid:CallToDeprecatedMethod§".Remove this use of "Double"; it is deprecated.(âÅ˜ùÿÿÿÿ8ıÓ½œà-
+csquid:CallToDeprecatedMethod¢".Remove this use of "Double"; it is deprecated.(Ú»…Åÿÿÿÿÿ8ıÓ½œà-
+?squid:S2129˜" Remove this "Double" constructor(»èÑ8ıÓ½œà-
+vsquid:S3008×"^Rename this field "NR_OF_ROWS_IN_BLOCK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™‡°£
+gsquid:HiddenFieldCheck–"ERename "remoteInputSteps" which hides the field declared at line 242.(®¶õs
+gsquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+^squid:CallToDeprecatedMethod¨"5Remove this use of "linesRejected"; it is deprecated.(ŠÎ‹Ø
+Hsquid:S1125Ø	")Remove the literal "false" boolean value.(ÚªË‚8ıÓ½œà-
+ƒsquid:S4144›"_Update this method so that its implementation is not identical to "getDispatcher" on line 1123.(íé­÷ùÿÿÿÿ8ıÓ½œà-
+_squid:CallToDeprecatedMethod»"1Remove this use of "linesRead"; it is deprecated.(ğÑ£·úÿÿÿÿ
+Rsquid:S1133«"5Do not forget to remove this deprecated code someday.(®ÚË£ıÿÿÿÿ
+csquid:HiddenFieldCheckÛ"@Rename "partitionID" which hides the field declared at line 299.(‚Õ œ
+Rsquid:S1141ˆ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+\squid:CallToDeprecatedMethodª"3Remove this use of "linesOutput"; it is deprecated.(´ä†¢
+qsquid:S3776 
+"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(ÔÇí8ıÓ½œà-
+Esquid:S1168ü"&Return an empty array instead of null.(¥¹ï8ıÓ½œà-
+Esquid:S1168Š"&Return an empty array instead of null.(¥¹ï8ıÓ½œà-
+msquid:HiddenFieldCheckØ"CRename "repartitioning" which hides the field declared at line 305.(‡ã—’8ıÓ½œà-
+esquid:S2142À"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ıÓ½œà-
+esquid:S2142Ü"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ıÓ½œà-
+fsquid:S3008“"NRename this field "PKG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çùÄ
+qsquid:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(Á’­Â
+bsquid:S1155¦
+">Use isEmpty() to check whether the collection is empty or not.(õêğ¡ÿÿÿÿÿ8ıÓ½œà-
+isquid:HiddenFieldCheck›"FRename "remoteOutputSteps" which hides the field declared at line 245.(²Û­„
+\squid:CallToDeprecatedMethodÔ"4Remove this use of "linesWritten"; it is deprecated.(“ÙÌ6
+esquid:S2142Â"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ıÓ½œà-
+Qsquid:S1135ª
+"2Complete the task associated to this TODO comment.(ğ–³ù8ıÓ½œà-
+Lsquid:S1133Û"5Do not forget to remove this deprecated code someday.(çóÌP
+hsquid:HiddenFieldCheck”"@Rename "clusterSize" which hides the field declared at line 328.(‚¿öûÿÿÿÿ
+`squid:CallToDeprecatedMethod–"2Remove this use of "linesInput"; it is deprecated.(ûÒˆÒıÿÿÿÿ
+qsquid:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÎÍ³×8ıÓ½œà-
+Usquid:S1854µ"6Remove this useless assignment to local variable "nr".(ÆÏâ8ıÓ½œà-
+osquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(š…¤Úøÿÿÿÿ8ıÓ½œà-
+msquid:S00116…"URename this field "start_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äˆòt
+jsquid:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¢Û¾å
+vsquid:S00117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿äš¾üÿÿÿÿ8ıÓ½œà-
+esquid:S2142æ"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ıÓ½œà-
+lsquid:HiddenFieldCheck¬"=Rename "stepMeta" which hides the field declared at line 153.(¾ïˆÈÿÿÿÿÿ8ıÓ½œà-
+csquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(¦£™
+Esquid:S1168ı"&Return an empty array instead of null.(¥¹ï8ıÓ½œà-
+]squid:CallToDeprecatedMethod¼"4Remove this use of "linesWritten"; it is deprecated.(Ç„»Ü
+Gsquid:S5413ü")Verify that "remove()" is used correctly.(™›y8ıÓ½œà-
+qsquid:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(»Ê²·
+bsquid:CallToDeprecatedMethodó"4Remove this use of "linesUpdated"; it is deprecated.(‹ª¬Ïÿÿÿÿÿ
+vsquid:S3776­"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(®ªÛªøÿÿÿÿ8ıÓ½œà-
+ squid:S1186³"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·ÎœÒ8ıÓ½œà-
+osquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(‘„Úëşÿÿÿÿ8ıÓ½œà-
+Msquid:S1133Ó"5Do not forget to remove this deprecated code someday.(±—º»
+vsquid:S00117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿äš¾üÿÿÿÿ8­ÆÉß-
+bsquid:CallToDeprecatedMethodß"4Remove this use of "linesWritten"; it is deprecated.(»ı¶¸ûÿÿÿÿ
+Esquid:S1168È"&Return an empty array instead of null.(¼Ûèà8ıÓ½œà-
+_squid:CallToDeprecatedMethodì"1Remove this use of "linesRead"; it is deprecated.(ñğ­øÿÿÿÿ
+^squid:CallToDeprecatedMethod¬".Remove this use of "Double"; it is deprecated.(Œæ¬Å8ıÓ½œà-
+Dsquid:S2129§" Remove this "Double" constructor(âÅ˜ùÿÿÿÿ8ıÓ½œà-
+vsquid:S2293ş"YReplace the type specification in this constructor call with the diamond operator ("<>").( ì¨ùÿÿÿÿ
+\squid:CallToDeprecatedMethod¿"3Remove this use of "linesOutput"; it is deprecated.(ãâëÃ
+}squid:S2293»"YReplace the type specification in this constructor call with the diamond operator ("<>").(À‡Á³ÿÿÿÿÿ8«‚¿Éß-
+osquid:S3776À	"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ä°şäøÿÿÿÿ
+?squid:S2129¬" Remove this "Double" constructor(Œæ¬Å8ıÓ½œà-
+^squid:S2142Æ	"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+vsquid:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(•û’£üÿÿÿÿ8ıÓ½œà-
+qsquid:S3776 "RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(¦û‘¬8ıÓ½œà-
+qsquid:S00117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­„•µ8ıÓ½œà-
+xsquid:S00116"ZRename this field "terminator_rows" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏöÛıÿÿÿÿ
+csquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(ë„°à
+csquid:CallToDeprecatedMethod“".Remove this use of "Double"; it is deprecated.(„¦ñÍùÿÿÿÿ8ıÓ½œà-
+]squid:CallToDeprecatedMethod¿"5Remove this use of "linesRejected"; it is deprecated.(ÅÔµ
+Ssquid:S1066¨"/Merge this if statement with the enclosing one.(ˆ‰é³úÿÿÿÿ8ıÓ½œà-
+Zsquid:CallToDeprecatedMethod÷"1Remove this use of "linesRead"; it is deprecated.(¬¥¯‘
+Dsquid:S2129¢" Remove this "Double" constructor(Ú»…Åÿÿÿÿÿ8ıÓ½œà-
+csquid:CallToDeprecatedMethod".Remove this use of "Double"; it is deprecated.(Í„ºıÿÿÿÿ8ıÓ½œà-
+esquid:S2142©"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ıÓ½œà-
+[squid:S1155Ú">Use isEmpty() to check whether the collection is empty or not.(³ßƒµûÿÿÿÿ
+bsquid:CallToDeprecatedMethodé"4Remove this use of "linesWritten"; it is deprecated.(ñ ëıÿÿÿÿ
+Ssquid:S1066Ë"/Merge this if statement with the enclosing one.(‚š½éùÿÿÿÿ8ıÓ½œà-
+csquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(†È³
+esquid:S2142ò"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ıÓ½œà-
+Rsquid:S1133Ã"5Do not forget to remove this deprecated code someday.(ë˜Ñ©şÿÿÿÿ
+;squid:S1643ö
+"Use a StringBuilder instead.(²˜õš8ıÓ½œà-
+wsquid:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿Ğº{8ıÓ½œà-
+Psquid:S1659é"3Declare "currentOutputRowSetNr" on a separate line.(È»Š—øÿÿÿÿ
+vsquid:S00117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿äš¾üÿÿÿÿ8ıÓ½œà-
+_squid:S00112«"FDefine and throw a dedicated exception instead of using a generic one.(ºƒ´¤
+Jsquid:S1168Ú"&Return an empty array instead of null.(áÕ‘Äşÿÿÿÿ8ıÓ½œà-
+bsquid:CallToDeprecatedMethodş"4Remove this use of "linesUpdated"; it is deprecated.(˜ıÏçùÿÿÿÿ
+ksquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 100 to the 15 allowed.(‰º²“
+bsquid:CallToDeprecatedMethod±"4Remove this use of "linesSkipped"; it is deprecated.(£Ú×æÿÿÿÿÿ
+Lsquid:S1133»"5Do not forget to remove this deprecated code someday.(ÎÑ˜-
+vsquid:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(€Ùß»üÿÿÿÿ8ıÓ½œà-
+Tsquid:S1133³"5Do not forget to remove this deprecated code someday.(·ÎœÒ8ıÓ½œà-
+csquid:CommentedOutCodeLineÏ"<This block of commented-out lines of code should be removed.(÷ÑØû
+^squid:CallToDeprecatedMethod˜".Remove this use of "Double"; it is deprecated.(»èÑ8ıÓ½œà-
+}squid:S2293Á"YReplace the type specification in this constructor call with the diamond operator ("<>").(éÇíèüÿÿÿÿ8ıÓ½œà-
+"squid:ClassVariableVisibilityCheck"[Make terminator_rows a static final constant or non-public and provide accessors if needed.(ÏöÛıÿÿÿÿ
+asquid:CallToDeprecatedMethodµ"3Remove this use of "linesOutput"; it is deprecated.(Çºúÿÿÿÿ
+qsquid:S00117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­„•µ8ıÓ½œà-
+Ÿsquid:S1186©"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•¢šS8ıÓ½œà-
+Usquid:S2589æ"7Remove this expression which always evaluates to "true"(—Êğ8ıÓ½œà-
+\squid:S00107†"<Method has 9 parameters, which is greater than 7 authorized.(­„•µ8ıÓ½œà-
+Ssquid:S1066Œ"/Merge this if statement with the enclosing one.(±úßâÿÿÿÿÿ8ıÓ½œà-
+lsquid:S00116…"TRename this field "stop_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äˆòt
+Hsquid:S1125È")Remove the literal "false" boolean value.(ÚªË‚8ıÓ½œà-
+msquid:HiddenFieldCheck§"CRename "repartitioning" which hides the field declared at line 305.(‡ã—’8ıÓ½œà-
+esquid:S2142¢"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ıÓ½œà-
+\squid:CallToDeprecatedMethodÁ"3Remove this use of "linesOutput"; it is deprecated.(¾±ŸÉ
+esquid:S2142Ü	"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ıÓ½œà-
+vsquid:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ò¾üıÿÿÿÿ8ıÓ½œà-
+squid:S3252Ï"bUse static access with "org.pentaho.di.core.row.value.ValueMetaBase" for "convertStringToBoolean".(çÆÉÿ8ıÓ½œà-

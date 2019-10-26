@@ -1,0 +1,39 @@
+
+9squid:S1643‚"Use a StringBuilder instead.(¶¶Úëûÿÿÿÿ
+9squid:S1643˜"Use a StringBuilder instead.(›øıšüÿÿÿÿ
+4squid:S1643²"Use a StringBuilder instead.(Î“¨Ñ
+9squid:S1643Ç"Use a StringBuilder instead.(ˆ±¥¬úÿÿÿÿ
+fsquid:S1192œ"IDefine a constant instead of duplicating this literal "truncate" 4 times.(Ú½ß÷ûÿÿÿÿ
+psquid:S1192¨"SDefine a constant instead of duplicating this literal "tablename_in_field" 4 times.(öÙÂïıÿÿÿÿ
+dsquid:S1192™"GDefine a constant instead of duplicating this literal "schema" 4 times.(ï”àõûÿÿÿÿ
+isquid:S1192¸"LDefine a constant instead of duplicating this literal "stream_name" 5 times.(é¦€‚ıÿÿÿÿ
+fsquid:S1192"NDefine a constant instead of duplicating this literal "ignore_errors" 4 times.(œÊÁ
+msquid:S1192©"PDefine a constant instead of duplicating this literal "tablename_field" 4 times.(½Û¬“şÿÿÿÿ
+dsquid:S1192¬"LDefine a constant instead of duplicating this literal "return_keys" 4 times.(½—òç
+jsquid:S1192­"MDefine a constant instead of duplicating this literal "return_field" 4 times.(²¥ˆÁÿÿÿÿÿ
+gsquid:S1192¡"ODefine a constant instead of duplicating this literal "specify_fields" 4 times.(òãÚ
+csquid:S1192š"FDefine a constant instead of duplicating this literal "table" 4 times.(€¨Õüÿÿÿÿ
+lsquid:S1192¦"UDefine a constant instead of duplicating this literal "partitioning_monthly" 4 times.(æ´•i
+gsquid:S1192"JDefine a constant instead of duplicating this literal "use_batch" 4 times.(Â‘à«úÿÿÿÿ
+jsquid:S1192ª"SDefine a constant instead of duplicating this literal "tablename_in_table" 4 times.(¨œ¿~
+ksquid:S1192¤"SDefine a constant instead of duplicating this literal "partitioning_field" 4 times.(ŸÎœ‘
+isquid:S1192·"LDefine a constant instead of duplicating this literal "column_name" 5 times.(ØÃÕŸøÿÿÿÿ
+_squid:S1192›"GDefine a constant instead of duplicating this literal "commit" 4 times.(»›
+msquid:S1192£"UDefine a constant instead of duplicating this literal "partitioning_enabled" 4 times.(õæ
+ksquid:S1192¥"SDefine a constant instead of duplicating this literal "partitioning_daily" 4 times.(²ôÈƒ
+`squid:S2583©"CChange this condition so that it does not always evaluate to "true"(Ô²Àíşÿÿÿÿ
+osquid:S00117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×®¡¥ùÿÿÿÿ
+jsquid:S00117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÿíè
+jsquid:S00117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÿíè
+osquid:S00117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôŞ‚Úøÿÿÿÿ
+jsquid:S00117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìƒòò
+jsquid:S00117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÏ‹
+osquid:S00117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄäŠ‹øÿÿÿÿ
+jsquid:S3008H"NRename this field "PKG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÀı±øÿÿÿÿ
+Šsquid:S1845Ë"rRename method "getTablename" to prevent any misunderstanding/clash with method "getTableName" defined on line 312.(É‚Û
+Šsquid:S1845Õ"rRename method "setTablename" to prevent any misunderstanding/clash with method "setTableName" defined on line 322.(ÊÂ™¾
+ksquid:S2975ƒ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+Msquid:S1133Ë"5Do not forget to remove this deprecated code someday.(É‚Û
+Msquid:S1133Õ"5Do not forget to remove this deprecated code someday.(ÊÂ™¾
+ksquid:S3776Í"SRefactor this method to reduce its Cognitive Complexity from 131 to the 15 allowed.(Ùİ¢ˆ
+jsquid:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(­£“³

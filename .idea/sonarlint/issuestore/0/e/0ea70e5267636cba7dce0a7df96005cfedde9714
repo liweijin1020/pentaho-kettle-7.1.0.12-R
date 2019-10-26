@@ -1,0 +1,9 @@
+
+nsquid:S3776c"RRefactor this method to reduce its Cognitive Complexity from 83 to the 15 allowed.(¤ƒÞƒúÿÿÿÿ
+esquid:S30088"NRename this field "PKG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¦ÚÑ
+~squid:S1488]"bImmediately return this expression instead of assigning it to the temporary variable "parameters".(Ý ßÙûÿÿÿÿ
+Gsquid:S1066€"/Merge this if statement with the enclosing one.(×Õ´±
+jsquid:S3776á"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(°Ì·‚
+jsquid:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(‰º²“
+Gsquid:S1066¾"/Merge this if statement with the enclosing one.(«ÁÏ¶
+Gsquid:S1066Ò"/Merge this if statement with the enclosing one.(«ÁÏ¶
