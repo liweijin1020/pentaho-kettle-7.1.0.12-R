@@ -22,7 +22,7 @@
     <dependency.mockito-all.version>1.9.5</dependency.mockito-all.version>
     <dependency.karaf.version>3.0.3</dependency.karaf.version>
     <dependency.osgi.version>4.3.1</dependency.osgi.version>
-    <dependency.fasterxml.jackson.version>2.5.4</dependency.fasterxml.jackson.version>
+    <dependency.fasterxml.jackson.version>2.10.1</dependency.fasterxml.jackson.version>
     <dependency.json-simple.version>1.1</dependency.json-simple.version>
     <dependency.angular-translate.version>2.12.1</dependency.angular-translate.version>
     <dependency.javax.servlet-api.version>3.0.1</dependency.javax.servlet-api.version>
