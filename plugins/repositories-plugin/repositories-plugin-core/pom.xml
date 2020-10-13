@@ -30,7 +30,7 @@
     <dependency.commons-vfs2.version>2.1-20150824</dependency.commons-vfs2.version>
     <dependency.eclipse.version>3.6.0</dependency.eclipse.version>
     <dependency.pax-web-spi.version>3.1.4</dependency.pax-web-spi.version>
-    <dependency.junit.version>4.11</dependency.junit.version>
+    <dependency.junit.version>4.13.1</dependency.junit.version>
   </properties>
   <dependencies>
     <dependency>
