@@ -133,7 +133,8 @@ public class TableAgileMart extends TableOutput implements TableManager {
     return true;
   }
 
-  protected Object[] writeToTable( RowMetaInterface rowMeta, Object[] r ) throws KettleException {
+  @Override
+  protected Object[] writeToTable(RowMetaInterface rowMeta, Object[] r ) throws KettleException {
     // see if we need to truncate any string fields
     try {
       int index = 0;

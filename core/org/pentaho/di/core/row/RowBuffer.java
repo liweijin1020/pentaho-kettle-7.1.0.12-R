@@ -27,6 +27,7 @@ import java.util.List;
 
 /**
  * This class contains a list of data rows as well as the RowMetaInterface to describe it.
+ * 此类包含数据行列表以及用于描述它的RowMetaInterface。
  *
  * @author matt
  *

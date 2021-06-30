@@ -430,6 +430,7 @@ public class UserDefinedJavaClass extends BaseStep implements StepInterface {
     return super.getResultFiles();
   }
 
+  @Override
   public Object[] getRow() throws KettleException {
     if ( child == null ) {
       return getRowImpl();
@@ -1033,7 +1034,8 @@ public class UserDefinedJavaClass extends BaseStep implements StepInterface {
     super.putError( rowMeta, row, nrErrors, errorDescriptions, fieldNames, errorCodes );
   }
 
-  public void putRow( RowMetaInterface row, Object[] data ) throws KettleStepException {
+  @Override
+  public void putRow(RowMetaInterface row, Object[] data ) throws KettleStepException {
     if ( child == null ) {
       putRowImpl( row, data );
     } else {

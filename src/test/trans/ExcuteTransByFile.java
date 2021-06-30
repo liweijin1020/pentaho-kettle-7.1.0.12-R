@@ -7,7 +7,8 @@ import org.pentaho.di.trans.TransMeta;
 
 public class ExcuteTransByFile {
     public static void main(String[] args) {
-        String filename = "E:\\DevelopmentCourse\\ETL\\kettle\\testdata\\tableinput.ktr";// ktr文件名
+        //String filename = "D:\\workspase\\pentaho-kettle\\脚本文件\\tableinfo1.ktr";// ktr文件名
+        String filename = "D:\\workspase\\pentaho-kettle\\脚本文件\\aa.ktr";// ktr文件名
         try {
             KettleEnvironment.init();
             TransMeta transMeta = new TransMeta(filename);

@@ -1,25 +1,28 @@
-<window xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul" align="stretch">
+<window xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul" align="stretch"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul ">
 
-  <toolbar id="nav-toolbar" mode="icons">
-  
-    <toolbaritem>
-	  <radiogroup>
-        <radio id="preview-first" label="${TransPreview.FirstRows.Label}" command="transpreview.first()" selected="true"/>
-      </radiogroup>
-    </toolbaritem>
+    <toolbar id="nav-toolbar" mode="icons">
 
-    <toolbaritem>
-	  <radiogroup>
-        <radio id="preview-last" label="${TransPreview.LastRows.Label}" command="transpreview.last()" />
-      </radiogroup>
-    </toolbaritem>
+        <toolbaritem>
+            <radiogroup>
+                <radio id="preview-first" label="${TransPreview.FirstRows.Label}" command="transpreview.first()"
+                       selected="true"/>
+            </radiogroup>
+        </toolbaritem>
 
-    <toolbaritem>
-	  <radiogroup>
-        <radio id="preview-off" label="${TransPreview.Off.Label}" command="transpreview.off()"/>
-      </radiogroup>
-    </toolbaritem>
-   
-  </toolbar>
+        <toolbaritem>
+            <radiogroup>
+                <radio id="preview-last" label="${TransPreview.LastRows.Label}" command="transpreview.last()"/>
+            </radiogroup>
+        </toolbaritem>
+
+        <toolbaritem>
+            <radiogroup>
+                <radio id="preview-off" label="${TransPreview.Off.Label}" command="transpreview.off()"/>
+            </radiogroup>
+        </toolbaritem>
+
+    </toolbar>
 
 </window>

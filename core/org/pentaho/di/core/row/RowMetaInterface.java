@@ -38,6 +38,7 @@ import org.w3c.dom.Node;
 /**
  * This interface provides methods to describe and manipulate a row&#39;s structure. The interface is similar to the
  * JDBC ResultSet interface in that it provides a means of getting data from a row.
+ * 该接口提供描述和操纵行结构的方法。该接口与JDBC ResultSet接口相似，因为它提供了一种从行中获取数据的方法。
  * <p>
  * Inside processRow() a step typically retrieves the structure of incoming rows by calling getInputRowMeta(), which is
  * provided by the BaseStep class. The step would usually clone this object and pass it to getFields() of its meta

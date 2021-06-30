@@ -156,6 +156,7 @@ public class Database implements VariableSpace, LoggingObjectInterface {
 
   /**
    * Number of times a connection was opened using this object. Only used in the context of a database connection map
+   * 使用此对象打开连接的次数。仅在数据库连接映射的上下文中使用
    */
   private volatile int opened;
 
@@ -716,7 +717,7 @@ public class Database implements VariableSpace, LoggingObjectInterface {
 
   /**
    * Cancel the open/running queries on the database connection
-   *
+   * 取消查询
    * @throws KettleDatabaseException
    */
   public void cancelQuery() throws KettleDatabaseException {
@@ -851,8 +852,7 @@ public class Database implements VariableSpace, LoggingObjectInterface {
   }
 
   /**
-   * this is a copy of {@link #commit(boolean)} - but delegates exception handling to caller. Can be possibly be removed
-   * in future.
+   * this is a copy of {@link #commit(boolean)} - but delegates exception handling to caller. Can be possibly be removed in future.
    *
    * @param force
    * @throws KettleDatabaseException

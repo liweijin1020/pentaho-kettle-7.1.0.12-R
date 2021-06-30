@@ -738,7 +738,7 @@ public class Trans implements VariableSpace, NamedParams, HasLogChannelInterface
                     .size() ) ) );
             log.logDetailed( BaseMessages.getString( PKG, "Trans.Log.AllocatingRowsets" ) );
         }
-        // First allocate all the rowsets required! 首先分配所需的所有行集！
+        // First allocate all the rowsets required! 首先分配所需的所有行集！（分配每个步骤之间的队列RowSet）
         // Note that a mapping doesn't receive ANY input or output rowsets... 请注意，映射不接收任何输入或输出行集…
         //
         for ( int i = 0; i < hopsteps.size(); i++ ) {
@@ -775,7 +775,7 @@ public class Trans implements VariableSpace, NamedParams, HasLogChannelInterface
                 // How many times do we start the target step? 开启目标步骤需要对长时间
                 int nextCopies = nextStep.getCopies();
 
-                // Are we re-partitioning? 是否在分区？
+                // Are we re-partitioning? 是否重新分区？
                 boolean repartitioning;
                 if ( thisStep.isPartitioned() ) {
                     repartitioning = !thisStep.getStepPartitioningMeta().equals( nextStep.getStepPartitioningMeta() );

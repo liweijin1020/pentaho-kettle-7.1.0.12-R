@@ -96,8 +96,10 @@ public class TableInput extends BaseStep implements StepInterface {
   }
 
   /** kettle中已定义好的行处理方法，每行记录都会运行一次 */
-  public boolean processRow( StepMetaInterface smi, StepDataInterface sdi ) throws KettleException {
-    if ( first ) { // we just got started
+  @Override
+  public boolean processRow(StepMetaInterface smi, StepDataInterface sdi ) throws KettleException {
+    // we just got started  判断是否是第一行，需要去连接数据库，查询数据
+    if ( first ) {
 
       Object[] parameters;
       RowMetaInterface parametersMeta;

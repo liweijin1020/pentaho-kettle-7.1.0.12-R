@@ -4153,6 +4153,7 @@ public class TransGraph extends AbstractGraph implements XulEventHandler, Redraw
       @Override
       public void run() {
         try {
+          // 完成分支、步骤之间的关系处理，实现steps[List<StepMetaDataCombi>]初始化
           trans.prepareExecution( args );
 
           // Do we capture data?
@@ -4168,7 +4169,7 @@ public class TransGraph extends AbstractGraph implements XulEventHandler, Redraw
         }
         halted = trans.hasHaltedSteps();
         if ( trans.isReadyToStart() ) {
-          checkStartThreads(); // After init, launch the threads.
+          checkStartThreads(); // After init, launch the threads. 初始化完成后，启动线程
         } else {
           initialized = false;
           running = false;

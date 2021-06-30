@@ -67,7 +67,8 @@ public class TableOutput extends BaseStep implements StepInterface {
     super( stepMeta, stepDataInterface, copyNr, transMeta, trans );
   }
 
-  public boolean processRow( StepMetaInterface smi, StepDataInterface sdi ) throws KettleException {
+  @Override
+  public boolean processRow(StepMetaInterface smi, StepDataInterface sdi ) throws KettleException {
     meta = (TableOutputMeta) smi;
     data = (TableOutputData) sdi;
 

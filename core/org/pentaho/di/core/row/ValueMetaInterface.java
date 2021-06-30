@@ -52,6 +52,12 @@ import org.w3c.dom.Node;
  * from a RowMetaInterface object, which is acquired by a call to getInputRowMeta(). The getType() method returns one of
  * the static constants declared by ValueMetaInterface to indicate the PDI field type. Each field type maps to a
  * corresponding native Java type for the actual value.
+ * ValueMetaInterface对象用于确定行字段的特征。
+ * 它们通常是从RowMetaInterface对象获得的，
+ * 该对象是通过调用getInputRowMeta（）获得的。
+ * getType（）方法返回ValueMetaInterface声明的静态常量之一，以指示PDI字段类型。
+ * 每个字段类型都映射到对应的本地Java类型以获取实际值
+ *
  * <p>
  * <b>PDI Field Type / Java Mapping</b>
  * <p>
@@ -106,10 +112,11 @@ import org.w3c.dom.Node;
  * </tr>
  * </Table>
  * <p>
- * <b>Storage Types</b>
+ * <b>Storage Types 存储类型</b>
  * <p>
  * In addition to the data type of a field, the storage type (getStorageType()/setStorageType()) is used to interpret
  * the actual field value in a row array.
+ * 除了字段的数据类型外，存储类型（getStorageType（）/ setStorageType（））还用于解释行数组中的实际字段值
  * <p>
  * <Table border="1">
  * <tr>

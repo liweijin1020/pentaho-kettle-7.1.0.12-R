@@ -29,8 +29,8 @@ import java.util.concurrent.TimeUnit;
 import org.pentaho.di.core.row.RowMetaInterface;
 
 /**
- * Contains a buffer of rows. Getting rows from the buffer or putting rows in the buffer is synchronized to allow
- * concurrent use of multiple Threads.
+ * Contains a buffer of rows. Getting rows from the buffer or putting rows in the buffer is synchronized to allow concurrent use of multiple Threads.
+ * 包含行缓冲区。从缓冲区获取行或将行放入缓冲区是同步的，以允许并发使用多个线程。
  *
  * @author Matt
  * @since 04-04-2003
@@ -44,6 +44,7 @@ public class BlockingRowSet extends BaseRowSet implements Comparable<RowSet>, Ro
 
   /**
    * Create new non-blocking-queue with maxSize capacity.
+   * 创建具有maxSize容量的新非阻塞队列。ArrayBlockingQueue
    *
    * @param maxSize
    */

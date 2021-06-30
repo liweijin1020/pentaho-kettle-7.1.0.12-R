@@ -1085,7 +1085,7 @@ public class TableOutputDialog extends BaseStepDialog implements StepDialogInter
                   ci.getQuotedSchemaTableCombination( transMeta.environmentSubstitute( schemaName ), transMeta
                     .environmentSubstitute( tableName ) );
                 RowMetaInterface r = db.getTableFields( schemaTable );
-                if ( null != r ) {
+                  if ( null != r ) {
                   String[] fieldNames = r.getFieldNames();
                   if ( null != fieldNames ) {
                     for ( ColumnInfo colInfo : tableFieldColumns ) {
