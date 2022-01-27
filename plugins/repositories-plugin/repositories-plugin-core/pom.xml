@@ -16,7 +16,7 @@
   <properties>
     <dependency.javax.ws.rs-api.version>2.0</dependency.javax.ws.rs-api.version>
     <dependency.guava.version>17.0</dependency.guava.version>
-    <dependency.xercesImpl.version>2.9.1</dependency.xercesImpl.version>
+    <dependency.xercesImpl.version>2.12.2</dependency.xercesImpl.version>
     <dependency.pentaho-kettle.version>7.1.0.12-132</dependency.pentaho-kettle.version>
     <dependency.jackson-mapper-asl.version>1.9.2</dependency.jackson-mapper-asl.version>
     <dependency.mockito-all.version>1.9.5</dependency.mockito-all.version>
